@@ -1,21 +1,21 @@
 ---
 # Display name
-title: 吳恩達
+title: Alexander Hollberg
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- AlexanderHollberg
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Chalmers University of Technology, Architecture and Civil Engineering, Building Technology, Sustainable Building
+  url: "https://www.chalmers.se/en/staff/Pages/Alexander-Hollberg,-Arkitektur-och-samhallsbyggnadsteknik-.aspx/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alexander Hollberg is Assistant Professor in the Division of Building Technology, at Chalmers.
+Alexander joined the research group Sustainable Building as an Assistant Professor for Computational Sustainable Design to work on developing methods and tools that facilitate the design of sustainable buildings and cities. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ The digital tools are used to assess, optimize, and visualize the design’s performance in real-time (energy, LCA, LCC, daylight, etc.). The goal is to provide decision-makers with the necessary information in the early design stages. Since 2017, he is an expert for digitalization for the German Sustainable Building Council (DGNB). Furthermore, he is founder and Head of R&D at CAALA, a software and consulting startup based in Munich, Germany.
