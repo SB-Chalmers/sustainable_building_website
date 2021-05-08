@@ -1,31 +1,16 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: my-widget-123
 headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title:
-subtitle:
-
+weight: 10
+title: Some Title
+subtitle: Some subtitle
+active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: dssnd.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
+    text_color_light: false
+    image_darken: 0.3
+    image: /static/media/contact.jpg
 ---
+Some Body...
