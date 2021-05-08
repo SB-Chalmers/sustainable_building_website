@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: home
+widget_id: image
 headless: true
 weight: 30
 title: Digitalisation of social sustainability in neighbourhood design
