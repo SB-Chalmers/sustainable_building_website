@@ -19,8 +19,8 @@ design:
   columns: "1"
   background:
     image: dssnd.jpg
-    image_darken: 0
-    image_parallax: false
+    image_darken: 0.5
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
@@ -29,3 +29,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
+Description here...
