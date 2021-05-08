@@ -12,13 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
-subtitle:
+title:Digitalising socially sustainability in neighbourhood design
+subtitle:Digital tools for social sustainability
 
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: dssnd.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
