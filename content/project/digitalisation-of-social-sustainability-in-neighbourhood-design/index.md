@@ -1,41 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Digitalisation of Social Sustainability in Neighbourhood Design"
+slides: ""
+url_pdf: ""
 summary: ""
-authors: [SanjaySomanath]
-tags: []
-categories: [ComputationalSustainableDesign]
+authors:
+  - SanjaySomanath
+url_video: ""
 date: 2021-05-08T20:28:21+02:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+external_link: https://www.chalmers.se/en/staff/Pages/ssanjay.aspx
+url_slides: ""
+title: Digitalisation of Social Sustainability in Neighbourhood Design
+tags: []
+categories:
+  - ComputationalSustainableDesign
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+  filename: dssnd.jpg
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
