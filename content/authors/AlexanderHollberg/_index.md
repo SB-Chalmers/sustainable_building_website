@@ -67,7 +67,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Alexander Hollberg is Assistant Professor in the Division of Building Technology, at Chalmers.
