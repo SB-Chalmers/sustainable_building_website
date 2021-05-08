@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Twinable"
-summary: ""
-authors: []
-tags: []
+summary: "This project is about creating opportunities for digital collaboration in planning and design"
+authors: [AlexanderHollberg,LianeThuvander,SanjaySomanath]
+tags: [DTCC]
 categories: []
 date: 2021-05-08T20:17:53+02:00
 
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Twinable"
+  focal_point: "center"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+My Project Description here!
