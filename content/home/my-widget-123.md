@@ -2,7 +2,7 @@
 widget: blank
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 40
 title: Some Title
 subtitle: Some subtitle
 active: true
