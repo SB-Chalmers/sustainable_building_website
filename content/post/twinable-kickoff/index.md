@@ -4,7 +4,7 @@ date: 2021-05-09T10:36:17.781Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: dtcc-twinable-web.jpg
   focal_point: Smart
   preview_only: false
 ---
