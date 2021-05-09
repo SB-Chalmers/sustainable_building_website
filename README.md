@@ -8,4 +8,4 @@ The research is related to ecological and economic
 life cycle assessment of construction materials, buildings and infrastructures, 
 sustainability assessment tools for buildings, social-cultural and climate adapted 
 design concepts as well as energy and material resource based building stock modeling 
-and its visualization.
+and its visualization. 
