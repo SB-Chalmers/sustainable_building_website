@@ -17,8 +17,8 @@ interval: 5000
 height: 300px
 
 item:
-  - title: Twinabler
-    content: 'Checkout this project!'
+  - title: Twinable
+    content: 'Digital tools for neighbourhood design'
     # Choose `center`, `left`, or `right` alignment.
     align: left
     # Overlay a color or image (optional).
@@ -26,9 +26,16 @@ item:
     overlay_color: '#6d597a'  # An HTML color value.
     overlay_img: twinable.png  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: 'Checkout this project!'
+    cta_url: 'project/twinable'
+    cta_icon_pack: fas
+    cta_icon: arrow-circle-right
 
   - title: Digitalisation of social sustainability in neighbourhood design
-    content: 'Checkout this project!'
+    content: 'Digital tools for neighbourhood design'
     align: left
     overlay_color: '#eaac8b'
     overlay_img: 'dssnd.jpg'
@@ -36,14 +43,39 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: See on GitHub
-    cta_url: 'https://github.com/snjsomnath/PhDThesisrepo'
+    cta_label: Checkout this project!
+    cta_url: 'project/digitalisation-of-social-sustainability-in-neighbourhood-design/'
     cta_icon_pack: fas
-    cta_icon: graduation-cap 
+    cta_icon: arrow-circle-right
+    
   - title: WELL Neighbourhood
-    content: 'Checkout this project!'
-    align: right
+    content: 'Digital tools for neighbourhood design'
+    align: left
     overlay_color: '#e56b6f'
     overlay_img: 'well-neighbourhood.jpg'
     overlay_filter: 0.5
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Checkout this project!
+    cta_url: 'project/well-neighbourhood'
+    cta_icon_pack: fas
+    cta_icon: arrow-circle-right
+  
+  - title: REDAP
+    content: 'Regional Energy Demand Analysis Portal'
+    # Choose `center`, `left`, or `right` alignment.
+    align: left
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    overlay_color: '#6d597a'  # An HTML color value.
+    overlay_img: redap.png  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Checkout this project!
+    cta_url: 'project/redap'
+    cta_icon_pack: fas
+    cta_icon: arrow-circle-right
 ---

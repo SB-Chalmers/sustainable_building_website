@@ -3,7 +3,7 @@
 
 title: "Digitalisation of social sustainability in neighbourhood design"
 summary: "This project is about developing digital tools to promote social sustainability in neighbourhood design"
-authors: [SanjaySomanath,AlexanderHollberg]
+authors: [Sanjay-Somanath,Alexander-Hollberg]
 tags: [ComputationalSustainableDesign]
 categories: [ComputationalSustainableDesign]
 date: 2021-05-08T20:17:53+02:00

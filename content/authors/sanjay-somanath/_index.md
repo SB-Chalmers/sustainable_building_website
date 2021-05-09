@@ -7,7 +7,7 @@ organizations:
     url: https://www.chalmers.se/en/staff/Pages/ssanjay.aspx/
 superuser: true
 authors:
-  - SanjaySomanath
+  - sanjay-somanath
 bio: My research interests include Social sustainability in neighbourhoods,
   specialising in computational design methods and GIS.
 interests:

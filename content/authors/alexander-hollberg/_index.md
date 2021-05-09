@@ -4,7 +4,7 @@ title: Alexander Hollberg
 
 # Username (this should match the folder name)
 authors:
-- AlexanderHollberg
+- alexander-hollberg
 
 # Is this the primary user of the site?
 superuser: false
@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - Researchers
 - Principal Investigators
+
 ---
 
 Alexander Hollberg is Assistant Professor in the Division of Building Technology, at Chalmers.

@@ -3,7 +3,7 @@
 
 title: "WELL Neighbourhood"
 summary: "This project is about developing digital tools to promote social sustainability in neighbourhood design"
-authors: [AlexanderHollberg,DeborahLombardi]
+authors: [Alexander-Hollberg,Deborah-Lombardi]
 tags: []
 categories: []
 date: 2021-05-09T01:36:12+02:00

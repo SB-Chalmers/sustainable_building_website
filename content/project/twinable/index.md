@@ -3,7 +3,7 @@
 
 title: "Twinable"
 summary: "This project is about creating opportunities for digital collaboration in planning and design"
-authors: [AlexanderHollberg,LianeThuvander,SanjaySomanath]
+authors: [Alexander-Hollberg,Liane-Thuvander,Sanjay-Somanath]
 tags: [DTCC]
 categories: []
 date: 2021-05-08T20:17:53+02:00
