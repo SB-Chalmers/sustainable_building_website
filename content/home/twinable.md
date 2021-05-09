@@ -21,7 +21,7 @@ design:
   background:
     image: twinable.png
     image_darken: 0.3
-    image_parallax: true
+    image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
