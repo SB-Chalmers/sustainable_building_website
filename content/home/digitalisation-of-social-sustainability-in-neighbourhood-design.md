@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: "Digitalisation of socially sustainable neighbourhood design"
 subtitle: "Digital tools for neighbourhood design"

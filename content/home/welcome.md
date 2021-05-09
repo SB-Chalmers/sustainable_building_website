@@ -5,7 +5,7 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+weight: 20  # Order that this section will appear.
 title: "Sustainable Building Research Group"
 subtitle: "Building Technology | Department of Architecture and Civil Engineering | Chalmers University of Technology"
 hero_media: welcome.jpg
