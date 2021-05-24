@@ -35,7 +35,8 @@ subtitle: ""
 tags:
   - social sustainability; digital design; conceptual framework; digital tools;
     neighbourhood
-projects: []
+projects:
+  - digitalisation-of-social-sustainability-in-neighbourhood-design
 date: 2021-05-01
 publishDate: 2021-05-08T20:27:27.644120Z
 ---
