@@ -27,6 +27,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: featured.png
 summary: ""
 lastmod: 2021-05-08T22:27:28+02:00
 title: Towards digitalisation of socially sustainable neighbourhood design
