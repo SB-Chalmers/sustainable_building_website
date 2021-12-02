@@ -11,4 +11,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-example, funded by E2B2
+example, funded by E2B2, ....
