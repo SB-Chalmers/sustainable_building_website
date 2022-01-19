@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alexander Hollberg
+title: Yutaka Goto
 
 # Username (this should match the folder name)
 authors:
-- alexander-hollberg
+- yutaka-goto
 
 # Is this the primary user of the site?
 superuser: false

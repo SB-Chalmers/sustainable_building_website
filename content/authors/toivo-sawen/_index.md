@@ -1,7 +1,9 @@
 ---
 title: Toivo Säwén
 role: PhD student
-avatar_filename: toivo-säwen.png
+avatar_filename: avatar.png
+user_groups:
+  - PhD Student
 social: []
 organizations:
   - name: Chalmers University of Technology

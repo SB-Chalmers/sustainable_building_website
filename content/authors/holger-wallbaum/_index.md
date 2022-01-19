@@ -29,9 +29,7 @@ social:
 education:
   courses:
 user_groups:
-  - Researchers
-  - Principal Investigators
-  - Research Group Leader
+  - Researcher
 highlight_name: false
 email: "holger.wallbaum@chalmers.se"
 ---

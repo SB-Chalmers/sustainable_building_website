@@ -6,7 +6,7 @@ superuser: false
 authors:
   - claudio-nageli
 title: Claudio Nägeli
-role: Post-Doc researcher
+role: Co-Founder - Sinom
 bio: null
 interests:
   - BuildingStockModelling
@@ -33,8 +33,7 @@ education:
       institution: Name of Institution
       year: 2012
 user_groups:
-  - Researchers
-  - Principal Investigators
+  - Alumni
 highlight_name: false
 email: ""
 ---
