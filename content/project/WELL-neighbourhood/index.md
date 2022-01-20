@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-widget: portfolio
-headless: true
+
+headless: false
 title: "WELL Neighbourhood"
 summary: "This project is about developing digital tools to promote social sustainability in neighbourhood design"
 authors: [Alexander-Hollberg,Deborah-Lombardi]
-tags: []
-categories: []
+tags: [Projects,DigitalTools]
+categories: [Projects]
 date: 2021-05-09T01:36:12+02:00
 
 # Optional external URL for project (replaces project detail page).

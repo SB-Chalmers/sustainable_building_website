@@ -6,6 +6,11 @@ summary: The main goal of the project is to mainstream holistic life cycle perfo
 date: 2021-12-02T14:20:17.488Z
 draft: false
 featured: false
+tags:
+  - Projects
+  - DigitalTools
+categories:
+  - Projects
 authors:
   - Toivo-Säwén
   - Alexander-Hollberg

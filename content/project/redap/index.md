@@ -10,8 +10,11 @@ authors:
   - holger-wallbaum
   - claudio-nageli
 tags:
+  - Projects
   - SustainableBuilding
   - BuildingStockModeling
+categories:
+  - Projects
 external_link: ""
 image:
   focal_point: Center

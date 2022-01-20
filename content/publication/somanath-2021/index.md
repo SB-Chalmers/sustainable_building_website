@@ -29,7 +29,7 @@ abstract: Digital tools for performance-assessment are commonly used to shorten
 draft: false
 url_pdf: https://www.tandfonline.com/doi/full/10.1080/13549839.2021.1923002
 featured: false
-categories: []
+categories: [publication]
 image:
   caption: User Interaction Model For Digital Tools
   focal_point: ""
@@ -40,8 +40,11 @@ lastmod: 2021-05-08T22:27:28+02:00
 title: Towards digitalisation of socially sustainable neighbourhood design
 subtitle: ""
 tags:
-  - Social sustainability;digital design;conceptual framework;digital
-    toolsneighbourhood
+  - Social sustainability 
+  - digital design 
+  - conceptual framework 
+  - digital tools 
+  - neighbourhood
 projects:
   - digitalisation-of-social-sustainability-in-neighbourhood-design
 date: 2021-05-01

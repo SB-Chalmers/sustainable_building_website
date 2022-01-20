@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Digitalisation of social sustainability in neighbourhood design"
+title: "Sample of Offered thesis"
 featured: false
 summary: "This project is about developing digital tools to promote social sustainability in neighbourhood design"
 authors: [Sanjay-Somanath,Alexander-Hollberg]
-tags: [Projects,ComputationalSustainableDesign, DigitalTools]
-categories: [Projects]
+tags: [Teaching,Teaching_MastersThesisOffered]
+categories: [Teaching]
 date: 2021-05-08T20:17:53+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -40,5 +40,4 @@ url_video: "https://github.com/snjsomnath/PhDThesisRepo/blob/main/media/demoA.gi
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Digital tools for performance-assessment are commonly used to shorten the feedback loop in testing designs for buildings and neighbourhoods. However, these tools do not extend to the social dimension in the same way as the economic and environmental dimensions.
-This project aims to develop a theoretical understanding of social sustainability at the neighbourhood planning level and propose a model for digital tools development. We then implement this model by building a digital platform that addresses the theoretical and operational challenges in pursuing social sustainability at the neighbourhood planning level. The tool is aimed at architects and urban planners, who would then incorporate stakeholder choices and values into the design process.
+My Project Description here!
