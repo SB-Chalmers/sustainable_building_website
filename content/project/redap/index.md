@@ -1,4 +1,5 @@
 ---
+
 title: REDAP
 subtitle: Regional Energy Demand Analysis Portal (REDAP)
 date: 2021-05-09T06:28:13.993Z
@@ -11,7 +12,7 @@ authors:
 tags:
   - SustainableBuilding
   - BuildingStockModeling
-external_link: https://sustainable-building.netlify.app/project/redap/
+external_link: ""
 image:
   focal_point: Center
   preview_only: false

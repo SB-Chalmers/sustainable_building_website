@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Digitalisation of social sustainability in neighbourhood design"
+featured: false
 summary: "This project is about developing digital tools to promote social sustainability in neighbourhood design"
 authors: [Sanjay-Somanath,Alexander-Hollberg]
 tags: [ComputationalSustainableDesign]
@@ -27,10 +28,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/snjsomnath/PhDThesisRepo"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://github.com/snjsomnath/PhDThesisRepo/blob/main/media/demoA.gif"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

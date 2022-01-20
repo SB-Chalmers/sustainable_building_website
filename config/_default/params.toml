@@ -143,14 +143,14 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = false, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
@@ -182,6 +182,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
+  project_view = 2
   post_view = 2
   publication_view = 2
   talk_view = 2
