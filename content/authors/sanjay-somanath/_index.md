@@ -8,8 +8,9 @@ organizations:
 superuser: true
 authors:
   - sanjay-somanath
-bio: My research interests include Social sustainability in neighbourhoods,
-  specialising in computational design methods and GIS.
+bio: Sanjay Somanath is a PhD student in the Department of Architecture and
+  Civil engineering. The focus of his research is Social sustainability in
+  neighbourhoods, specialising in computational design methods and GIS.
 interests:
   - Social Sustainability
   - Spatial Analysis
@@ -40,7 +41,6 @@ user_groups:
 highlight_name: false
 email: ""
 ---
+Sanjay Somanath is a PhD student in the Department of Architecture and Civil engineering. The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
 
-Sanjay Somanath is a PhD student in the Department of Architecture and Civil engineering.The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
-
-The goal of the research is to create a framework to analyse social sustainability in the built environment through digital tools.
+His research interests include Social sustainability in neighbourhoods, specialising in computational design methods and GIS. The goal of the PhD research is to create a framework to analyse social sustainability in the built environment through digital tools.
