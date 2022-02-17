@@ -37,7 +37,7 @@ education:
       institution: BMS College of Engineering, Bangalore, India
       year: 2017
 user_groups:
-  - PhD Student
+  - Researcher
 highlight_name: false
 email: ""
 ---
