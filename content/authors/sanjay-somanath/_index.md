@@ -28,6 +28,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/snjsomnath
+  - icon: linkedin
+    icon_pack: fab
+    link: https://linkedin.com/snjsomnath
 education:
   courses:
     - course: M.Arch Digital Architecture and Tectonics
