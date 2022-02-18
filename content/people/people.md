@@ -17,10 +17,10 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Researcher
-  - Post Doc
-  - PhD Student
-  - Administration
-  - Visitors
+ # - Post Doc
+ # - PhD Student
+ # - Administration
+ # - Visitors
   - Alumni
 design:
   show_interests: true
