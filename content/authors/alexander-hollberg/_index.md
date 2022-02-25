@@ -21,20 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+-Sustainable design
+-Optimization processes
+-Stakeholder interaction
+-Artificial Intelligence
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Parametric Life Cycle Assessment
+    institution: Bauhaus University Weimar
+    year: 2016
+  - course: MSc in Architectural Engineering
+    institution: Bauhaus University Weimar
+    year: 2011
+  - course: BSc in Civil Engineering
+    institution: Technical University of Munich (TUM)
     year: 2008
 
 # Social/Academic Networking
