@@ -18,13 +18,14 @@ organizations:
   url: "https://www.chalmers.se/en/staff/Pages/Alexander-Hollberg,-Arkitektur-och-samhallsbyggnadsteknik-.aspx/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Alexander Hollberg is Assistant Professor in the Division of Building Technology, at Chalmers.
+
 
 interests:
--Sustainable design
--Optimization processes
--Stakeholder interaction
--Artificial Intelligence
+  - Sustainable design
+  - Optimization processes
+  - Stakeholder interaction
+  - Artificial Intelligence
 
 education:
   courses:
