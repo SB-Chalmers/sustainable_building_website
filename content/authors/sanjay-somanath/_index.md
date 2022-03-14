@@ -1,6 +1,6 @@
 ---
 title: Sanjay Somanath
-role: PhD Student - Computational Sustainable Design
+role: PhD Student
 avatar_filename: avatar.jpg
 organizations:
   - name: Chalmers University of Technology
