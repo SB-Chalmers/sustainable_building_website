@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Alina has joined the research group as a Postdoctoral researcher to work on environmental assessment of building-integrated photovoltaics and robust sustainable design strategies to improve the environmental performance of buildings. Her research areas are life cycle assessment, environmental building design, life cycle cost analysis, uncertainty quantification and global sensitivity analysis.
 
 interests:
-
+  - Life cycle assessment
+  - Life cycle cost analysis
+  - Uncertainty quantification
+  - Environmental building design
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: PhD in Robust and reliable building renovation strategies for environmental and economic performance
+    institution: ETH Zurich
+    year: 2018
+  - course: MSc in Energy-efficient and environmental building design
+    institution: Lund University
+    year: 2015
+  - course: BSc in Civil Engineering
+    institution: Nosov Magnitogorsk State Technical University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,16 +45,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
+  link: 'mailto:galimshina@ibi.baug.ethz.ch'
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/alina-galimshina-925778118/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=en&user=QUv5kWwAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,3 +68,4 @@ user_groups:
 - Researcher
 
 ---
+Alina has joined the research group as a Postdoctoral researcher to work on environmental assessment of building-integrated photovoltaics and robust sustainable design strategies to improve the environmental performance of buildings. Her research areas are life cycle assessment, environmental building design, life cycle cost analysis, uncertainty quantification and global sensitivity analysis.

@@ -10,24 +10,33 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
 - name: Chalmers University of Technology, Architecture and Civil Engineering, Building Technology, Sustainable Building
-  url: ""
+  url: "https://www.chalmers.se/en/search/Pages/default.aspx?q=xinyue+wang"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: my research interests include life cycle assessment, life cycle cost, building optimization and machine learning.
 
 interests:
+  - life cycle assessment
+  - computational architecture
+  - machine learning
 
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: Master’s in digital architecture and design
+    institution: University of Sheffield
+    year: 2019-2020
+  - course: Master’s in architecture
+    institution: Harbin Institute of Technology
+    year: 2018-2021
+  - course: Bachelor’s in architecture
+    institution: Northeastern University
+    year: 2013-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,16 +45,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:xinyue.wang@chalmers.se'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,3 +62,4 @@ user_groups:
 - Researcher
 
 ---
+My research interests include life cycle assessment, building optimization, machine learning and computational architecture.
