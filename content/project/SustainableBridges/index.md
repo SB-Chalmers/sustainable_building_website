@@ -15,13 +15,15 @@ categories:
   - Projects
 authors:
   - alexander-hollberg
-external_link: "https://fcl.ethz.ch/research/powering-the-city.html"
+external_link: ""
 image:
   caption: Photo by Dan Asaki on Unsplash
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+[To Project page](https://fcl.ethz.ch/research/powering-the-city.html)
+
 The benefits of using stainless steel in bridges are well known. However, as a new way of evaluating designs, the bridge owner needs to compare the investment cost-optimized design solution with LCC- and LCA-optimized designs in order to facilitate the decision-making process.
 In the current project, optimization will be applied in connection with parametric design with the target to reduce the investment cost, life-cycle cost, and environmental impacts of composite road bridges made with stainless steel in both steel girders and reinforcement bars. LCA and LCC will be used in early design stages to optimize the design from a sustainability perspective over the life cycle, which is very rare in the research literature and has not been done for bridges with stainless steel before.
 A complete design procedure that can be used for creating optimum designs of composite bridges with stainless steel according to the newly developed concepts will be produced. Later, the developed design procedures will be applied in a number of case-studies. Alternative designs will be produced, employing the design concepts studied in the project for a number of newly designed (existing) bridges, and the results will be compared to the original design both from investment cost as well as from LCC/LCA points of view. This way potential bridge market segments in which the studied concepts are expected to be most effective will be identified.
