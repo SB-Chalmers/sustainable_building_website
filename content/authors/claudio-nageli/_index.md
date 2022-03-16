@@ -9,8 +9,8 @@ title: Claudio Nägeli
 role: Co-Founder - Sinom
 bio: null
 interests:
-  - BuildingStockModelling
-  - UrbanBuildingEnergyModels
+  - Building Stock Modelling
+  - Urban Building Energy Models
 social:
   - icon: envelope
     icon_pack: fas

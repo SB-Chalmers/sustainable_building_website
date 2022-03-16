@@ -3,7 +3,7 @@
 
 title: "Digitalisation of social sustainability in neighbourhood design"
 featured: false
-summary: "This project is about developing digital tools to promote social sustainability in neighbourhood design"
+summary: "Digital tools for performance-assessment are commonly used to shorten the feedback loop in testing designs for buildings and neighbourhoods. However, these tools do not extend to the social dimension in the same way as the economic and environmental dimensions. The aim of this project is to develop a theoretical understanding of social sustainability at the neighbourhood planning level and propose a model for the development of digital tools. "
 authors: [Sanjay-Somanath,Alexander-Hollberg]
 tags: [Projects,ComputationalSustainableDesign, DigitalTools]
 categories: [Projects]

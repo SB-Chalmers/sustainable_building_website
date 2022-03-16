@@ -1,7 +1,7 @@
 ---
 widget: portfolio
-headless: false
-
+headless: true
+weight: 40
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
@@ -24,6 +24,10 @@ content:
   filter_button:
     - name: All
       tag: 'Projects'
+    - name: Life Cycle
+      tag: LCA
+    - name: Energy
+      tag: Energy
     - name: Computational Sustainable design
       tag: ComputationalSustainableDesign
     - name: Sustainable Building
@@ -32,6 +36,9 @@ content:
       tag: DTCC
     - name: Digital Tools
       tag: DigitalTools
+    - name: Courses
+      tag: Teaching_Courses
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -40,7 +47,6 @@ design:
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 5
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: true
+  view: 3
+  flip_alt_rows: false
 ---

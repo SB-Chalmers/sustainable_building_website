@@ -18,13 +18,17 @@ categories:
 authors:
   - alexander-hollberg
   - alina-galimshina
-external_link: "https://fcl.ethz.ch/research/powering-the-city.html"
+external_link: ""
 image:
   caption: Image by Viviana González, 2018, Master Thesis, Architecture and Building Systems, ETH Zurich
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+[To Project page](https://fcl.ethz.ch/research/powering-the-city.html)
+
+
 Globally, 80% of energy is consumed primarily in urban areas today, due to urbanisation. The transition towards renewable energy systems is crucial in reducing greenhouse gas emissions and increasing liveability in cities. Switching from centralised, fossil-fuelled to decentralised and renewable electricity generation, also redefines the relation of cities to their hinterland with respect to energy. Current developments in technology, aesthetics as well as decreasing costs provide the grounds for mass deployment of BIPV in urban settings.
 The following research questions will be investigated in this project:
 *	How can, on existing buildings, both building retrofit potentials and solar yield be estimated realistically, taking into account the urban context?
