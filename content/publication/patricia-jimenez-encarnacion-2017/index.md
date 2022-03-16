@@ -6,7 +6,7 @@ title: 'Understanding Household Food Waste: Setting Data into Context for Effect
 subtitle: ''
 summary: ''
 authors:
-- Divia Patricia Jimenez Encarnacion
+- divia-jimenez
 tags: []
 categories: []
 date: '2017-01-01'

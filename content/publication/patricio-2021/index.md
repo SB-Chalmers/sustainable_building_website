@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Joao Patricio
-- Divia Jimenez Encarnacion
+- divia-jimenez
 - Yuliya Kalmykova
 - Leonardo Rosado
 tags:
