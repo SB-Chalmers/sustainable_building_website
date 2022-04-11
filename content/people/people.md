@@ -20,7 +20,7 @@ content:
  # - Post Doc
  # - PhD Student
  # - Administration
- # - Visitors
+  - Visiting Researcher
   - Alumni
 design:
   show_interests: true
