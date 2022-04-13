@@ -18,7 +18,7 @@ organizations:
   url: "https://www.chalmers.se/en/search/Pages/default.aspx?q=xinyue+wang"
 
 # Short bio (displayed in user profile at end of posts)
-bio: my research interests include life cycle assessment, life cycle cost, building optimization and machine learning.
+bio: My research interests include life cycle assessment, life cycle cost, building optimization and machine learning.
 
 interests:
   - life cycle assessment
