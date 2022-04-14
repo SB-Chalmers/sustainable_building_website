@@ -1,5 +1,5 @@
 ---
-title: Twinable Kickoff
+title: DTCC Professional education course on Digital Sustainable Built Environment
 date: 2021-11-09T10:36:17.781Z
 draft: false
 featured: false
