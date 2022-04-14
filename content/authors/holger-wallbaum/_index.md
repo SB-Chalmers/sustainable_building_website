@@ -9,23 +9,15 @@ superuser: true
 authors:
   - holger-wallbaum
 bio: Holger is a Full Professor in sustainable building at the Division of Building Technology, research group Sustainable Building, and in the Area of advance Building Futures. Holger works within sustainable building on concepts, tools and strategies to enhance the sustainability performance of construction materials, building products, buildings as well as entire cities.
-interests:
-  - Social Sustainability
-  - Spatial Analysis
-  - Digital Tools
+#interests:
+#  - Social Sustainability
+#  - Spatial Analysis
+#  - Digital Tools
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:holger.wallbaum@chalmers.se
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/snjsomnath
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=auDF3TYAAAAJ&hl
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/snjsomnath
+
 education:
   courses:
 user_groups:

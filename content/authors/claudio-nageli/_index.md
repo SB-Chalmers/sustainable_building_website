@@ -14,16 +14,8 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/USERNAME
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=PERSON-ID
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/USERNAME
+    link: 'mailto:claudio@sinom.se'
+  
 education:
   courses:
     - course: Title course 1
