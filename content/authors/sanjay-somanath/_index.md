@@ -31,6 +31,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/snjsomanath
+  - icon: cv
+    icon_pack: ai
+    link: files/cv-somanath.pdf
 education:
   courses:
     - course: M.Arch Digital Architecture and Tectonics
