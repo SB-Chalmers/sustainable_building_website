@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:sanjay.somanath@chalmers.se
+    link: 'mailto:sanjay.somanath@chalmers.se'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/snjsomnath
