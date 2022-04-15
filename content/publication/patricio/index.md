@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Joao Patricio
-- Divia Jimenez Encarnacion
+- Divia Encarnacion
 - Yuliya Kalmykova
 - Leonardo Rosado
 - Chalmers University of TechnologyChalmers tekniska Högskola

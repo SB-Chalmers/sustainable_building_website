@@ -4,7 +4,7 @@
 title: "SEsam"
 featured: false
 summary: "SEsam : Sharing Economy sustainability assessment method to support the implementation of sharing economy initiatives at neighbourhood level. The aim of this project is to develop and apply a systemic method that quantifies the sustainability benefits of implementing different sharing economy initiatives in neighborhoods in cities. "
-authors: [leonardo-rosado,divia-jimenez]
+authors: [leonardo-rosado,divia-encarnacion]
 tags: [Projects,SharingEconomy, HouseholdConsumption]
 categories: [Projects]
 date: 2021-05-08T20:17:53+02:00

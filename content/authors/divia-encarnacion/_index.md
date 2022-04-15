@@ -4,7 +4,7 @@ title: Divia Jiménez Encarnación
 
 # Username (this should match the folder name)
 authors:
-- divia-jimenez
+- divia-encarnacion
 
 # Is this the primary user of the site?
 superuser: false
