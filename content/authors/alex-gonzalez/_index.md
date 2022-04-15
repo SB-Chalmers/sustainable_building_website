@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: My research interests include sustainable architecture, indoor environment 
 interests:
 - Sustainable architecture
 - Indoor environment assessment
-- LCC and LCA 
+- Life cycle assessment and Life cycle costing
 
 education:
   courses:

@@ -7,7 +7,7 @@ authors:
   - claudio-nageli
 title: Claudio Nägeli
 role: Co-Founder - Sinom
-bio: null
+bio: I have long experience in energy and building related fields from a technical, economic, environmental and system level through my work as an energy consultant and researcher. Through my background I have gained broad knowledge in the field of energy in buildings as well as statistics, data analysis and visualization. I am interested in using data and models to speed up the energy transformation in the built environment. 
 interests:
   - Building Stock Modelling
   - Urban Building Energy Models
@@ -15,18 +15,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:claudio@sinom.se'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/claudio-naegeli/
   
 education:
   courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
+    - course: 
+      institution: 
+      year: 
 user_groups:
   - Alumni
 highlight_name: false
 email: ""
 ---
-Claudio is a PhD at the Division of Building Technology in the Sustainable Building research group. He joined the group in January 2015 with his research focusing on diffusion rates of low carbon building technologies in the European markets. Claudio holds a MSc in Energy Science and Technology from ETH Zurich, Switzerland.
+I have long experience in energy and building related fields from a technical, economic, environmental and system level through my work as an energy consultant and researcher. Through my background I have gained broad knowledge in the field of energy in buildings as well as statistics, data analysis and visualization. I am interested in using data and models to speed up the energy transformation in the built environment. 

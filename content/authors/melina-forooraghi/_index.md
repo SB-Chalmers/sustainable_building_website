@@ -10,17 +10,20 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: Chalmers University of Technology, Architecture and Civil Engineering, Building Technology, Sustainable Building
-  url: ""
+  url: "https://www.chalmers.se/en/staff/Pages/melinaf.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Melina's research focuses on the relationship between health and the built environment, drawing on a health approach called salutogenesis. More specifically, her research addresses how office design can promote employee health and wellbeing, by studying factors of the built environment that makes us healthy rather than those leading to disease and illness.
 
 interests:
+  - Health
+  - Wellbeing
+  - Office architecture
 
 
 education:
@@ -36,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:melinaf@chalmers.se'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=Vmsme1MAAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/melina-forooraghi-8121aa232/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,3 +64,4 @@ user_groups:
 - Researcher
 
 ---
+Melina's research focuses on the relationship between health and the built environment, drawing on a health approach called salutogenesis. More specifically, her research addresses how office design can promote employee health and wellbeing, by studying factors of the built environment that makes us healthy rather than those leading to disease and illness.

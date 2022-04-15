@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include life cycle assessment, life cycle cost, building optimization and machine learning.
 
 interests:
-  - life cycle assessment
-  - computational architecture
-  - machine learning
+  - Life cycle assessment
+  - Computational architecture
+  - Machine learning
 
 
 education:

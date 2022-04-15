@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Research and innovation coordinator at NCC
 
 # Organizations/Affiliations
 organizations:
@@ -21,6 +21,9 @@ organizations:
 bio: 
 
 interests:
+  - Environmental Engineering
+  - Daylighting
+  - Energy modelling
 
 
 education:
@@ -37,6 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:magnus.osterbring@ncc.se'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/magnus-%C3%B6sterbring-43045665/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
