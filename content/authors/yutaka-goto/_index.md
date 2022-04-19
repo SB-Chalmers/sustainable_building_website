@@ -22,6 +22,9 @@ bio: My transdisciplinary research and education focus on sustainable use of woo
 
 interests:
 - Wood engineering
+- Design adaptation and optimization
+- Resource efficiency
+- Durability
 
 
 
