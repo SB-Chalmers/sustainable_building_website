@@ -10,6 +10,7 @@ authors:
 - Liane Thuvander
 tags:
 - Social sustainability
+- ComputationalSustainableDesign
 - conceptual framework
 - digital design
 - digital tools
