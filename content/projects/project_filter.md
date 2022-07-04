@@ -24,6 +24,10 @@ content:
   filter_button:
     - name: All
       tag: 'Projects'
+    - name: Life Cycle
+      tag: LCA
+    - name: Energy
+      tag: Energy
     - name: Computational Sustainable design
       tag: ComputationalSustainableDesign
     - name: Sustainable Building
@@ -34,7 +38,7 @@ content:
       tag: DigitalTools
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  

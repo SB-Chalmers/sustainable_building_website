@@ -5,6 +5,8 @@ draft: false
 featured: false
 authors:
   - Alexander-Hollberg
+  - toivo-sawen
+  - xinyue-wang
 tags:
   - LCA
   - PhD
