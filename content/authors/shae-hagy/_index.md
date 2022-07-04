@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shae Hagy
+title: Shea Fitzgerald Hagy
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Artistic Teacher at Building Technology
+role: Artistic Teacher
 
 # Organizations/Affiliations
 organizations:
@@ -21,13 +21,21 @@ organizations:
 bio: Shea Hagy is the Project Manager for the HSB Living Lab at Chalmers, an experimental research facility for the testing of sustainable technologies and living practices. The HSB LL will be built on the Chalmers campus in collaboration with HSB, one of Sweden’s largest housing cooperatives. The facility will house approximately 20-30 students. The HSB Living Lab is also part of a larger EU-funded project called the Climate-KIC Building Technology Accelerator Flagship where Shea works within the ’Next Generation Building Envelope Systems’ research group.
 
 interests:
+- Circular Economy
+- Co-Creation
+- Earth Building
+- Living Labs
+- Practice-Based Education
 
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: MSc in Architecture and Design for Sustainable Development
+    institution: Chalmers University of Technology
+    year: 2014
+  - course : BSc in Environmental Science and Ecological Design
+    institution : University of Vermont
+    year : 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,4 +69,4 @@ user_groups:
 - Researcher
 
 ---
-Shea Hagy is the Project Manager for the HSB Living Lab at Chalmers, an experimental research facility for the testing of sustainable technologies and living practices. The HSB LL will be built on the Chalmers campus in collaboration with HSB, one of Sweden’s largest housing cooperatives. The facility will house approximately 20-30 students. The HSB Living Lab is also part of a larger EU-funded project called the Climate-KIC Building Technology Accelerator Flagship where Shea works within the ’Next Generation Building Envelope Systems’ research group.
+Shea has been involved in research projects dealing with topics ranging from the analysis of wood value chains, development of next generation Living Labs, and Circular Economy to the reuse of waste clay/earth in the building industry. He teaches and coordinates master’s level courses in the architecture program; Design and Planning for Social Inclusion, Reality Studio, Beyond Sustainability crash course. He managed the creation of the HSB Living Lab, along with Chalmers’ 2013 entry in the Solar Decathlon China (Halo) and created and leads DARE to Build, a cross-disciplinary practice-based course which challenges Engineering and Architecture students to design and build together. 
