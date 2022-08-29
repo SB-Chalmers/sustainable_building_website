@@ -16,9 +16,10 @@ tags:
 categories:
   - Projects
 authors:
+  - alex-gonzalez  
   - alexander-hollberg
   - sanjay-somanath
-  - alex-gonzales
+  
 external_link: ""
 image:
   caption: Photo by Jonas Jacobsson on Unsplash
