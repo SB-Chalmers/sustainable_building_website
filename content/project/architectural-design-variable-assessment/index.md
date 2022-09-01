@@ -16,6 +16,7 @@ authors:
   - Alexander-Hollberg
 external_link: ""
 image:
+  caption : AI generated image showing lego stakeholders around an architectural model  
   filename: featured
   focal_point: Smart
   preview_only: false
