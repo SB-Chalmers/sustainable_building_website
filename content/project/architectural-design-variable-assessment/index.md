@@ -26,7 +26,7 @@ Defining crucial variables is the first step and a significantly important facto
 However, most researches do not specify the reason of the selection of initial variables, the important variables in early design stage are still unknown. 
 Therefore, the performance of developed programs’ outcome could not be guaranteed. 
 
-With multiple variables and multiple life cycle optimisation subjective criteria being involved in design, there is a need for a comprehensive and consistent method to quantify the impact of a range of variables on project, and to also be able to evaluate and compare the importance of different life cycle optimisation goals.
+Early design stage always involves multiple optimisation objectives and the decision of multiple variables. There is a need for developing a method to quantify the impact of a range of ADVs on project, and to also be able to evaluate and compare the importance of different optimisation goals.
 There are many existing optimisation methods in architecture academia, however, few of them have been applied in practice. 
 
 The main reason of this is the lack of stakeholders’ engagement.
