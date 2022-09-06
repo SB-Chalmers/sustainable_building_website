@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:22.901843Z'
+publishDate: '2022-09-06T15:03:42.250264Z'
 publication_types:
 - '2'
 abstract: 'The construction sector has a significant share of Green House Gas emission

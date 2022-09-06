@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:02.142541Z'
+publishDate: '2022-09-06T15:03:21.845895Z'
 publication_types:
 - '2'
 abstract: 'Purpose Within the field of life cycle assessment (LCA), simplifications

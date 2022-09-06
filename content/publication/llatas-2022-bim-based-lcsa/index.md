@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:24.922158Z'
+publishDate: '2022-09-06T15:02:45.288502Z'
 publication_types:
 - '2'
 abstract: 'Life Cycle Sustainability Assessment (LCSA) is an integrated method that

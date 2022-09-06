@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:51.610132Z'
+publishDate: '2022-09-06T15:03:11.926607Z'
 publication_types:
 - '2'
 abstract: "Today's commercially-off-the-shelf (COST) wearable devices can unobtrusively\

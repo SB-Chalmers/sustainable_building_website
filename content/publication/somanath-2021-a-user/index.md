@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:55.583274Z'
+publishDate: '2022-09-06T15:03:15.664348Z'
 publication_types:
 - '2'
 abstract: 'Most digital tools developed for architects and urban planners cater to

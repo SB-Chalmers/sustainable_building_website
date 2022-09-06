@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:08.492417Z'
+publishDate: '2022-09-06T15:04:25.668427Z'
 publication_types:
 - '2'
 abstract: 'In Europe, residential and commercial buildings are directly and indirectly

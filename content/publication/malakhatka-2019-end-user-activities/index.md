@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:04.454150Z'
+publishDate: '2022-09-06T15:04:21.921309Z'
 publication_types:
 - '2'
 abstract: "The concept of sustainable buildings includes not only technological aspects\

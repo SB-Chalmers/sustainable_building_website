@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:07.194435Z'
+publishDate: '2022-09-06T15:03:26.568968Z'
 publication_types:
 - '2'
 abstract: 'Purpose: This study aims to establish a regionalized environmental impact

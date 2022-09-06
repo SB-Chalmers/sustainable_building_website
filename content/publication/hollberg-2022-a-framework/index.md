@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:23.715080Z'
+publishDate: '2022-09-06T15:02:44.096227Z'
 publication_types:
 - '2'
 abstract: "As the high greenhouse gas (GHG) emissions caused by the construction and\

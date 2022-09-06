@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:54.274188Z'
+publishDate: '2022-09-06T15:03:14.344841Z'
 publication_types:
 - '2'
 abstract: 'End use energy services have an important role in the ongoing energy transition

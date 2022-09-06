@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:44.972591Z'
+publishDate: '2022-09-06T15:03:04.993493Z'
 publication_types:
 - '2'
 abstract: 'Life Cycle Assessment (LCA) is increasingly used for decision-making in

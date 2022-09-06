@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:57.055108Z'
+publishDate: '2022-09-06T15:03:16.914141Z'
 publication_types:
 - '2'
 abstract: 'Hur kan vi på ett automatiskt sätt skapa mer detaljerade 3D modeller av

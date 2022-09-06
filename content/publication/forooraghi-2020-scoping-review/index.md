@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:09.704334Z'
+publishDate: '2022-09-06T15:03:29.024485Z'
 publication_types:
 - '2'
 abstract: 'Purpose: This paper aims to explore the literature on office design approaches

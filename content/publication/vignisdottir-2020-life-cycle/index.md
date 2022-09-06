@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:42.633062Z'
+publishDate: '2022-09-06T15:04:01.216364Z'
 publication_types:
 - '2'
 abstract: 'Purpose: Winter road maintenance in the Nordic climate is demanding due

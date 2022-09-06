@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:59.634592Z'
+publishDate: '2022-09-06T15:03:19.374566Z'
 publication_types:
 - '2'
 abstract: 'The purpose of the Spaces Project is to investigate glazed spaces in residential

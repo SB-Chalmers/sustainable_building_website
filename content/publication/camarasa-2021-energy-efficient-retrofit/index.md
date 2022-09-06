@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:35.823877Z'
+publishDate: '2022-09-06T15:02:55.728786Z'
 publication_types:
 - '2'
 abstract: 'Cross-country evidence on the adoption of energy-efficient retrofit measures

@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:13.526702Z'
+publishDate: '2022-09-06T15:04:30.117963Z'
 publication_types:
 - '2'
 abstract: 'The need for winter road maintenance (WRM) is changing in cold regions

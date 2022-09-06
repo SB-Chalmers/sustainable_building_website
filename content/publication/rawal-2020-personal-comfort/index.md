@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:38.388806Z'
+publishDate: '2022-09-06T15:03:56.279623Z'
 publication_types:
 - '2'
 abstract: 'Conventional heating, ventilation, and air-conditioning (HVAC) systems

@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:03.138645Z'
+publishDate: '2022-09-06T15:04:20.693003Z'
 publication_types:
 - '2'
 abstract: 'Renovating the existing building stock has a significant potential to achieve

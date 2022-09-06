@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:52.052313Z'
+publishDate: '2022-09-06T15:04:11.338690Z'
 publication_types:
 - '2'
 abstract: 'Aim: This article explores emerging design approaches in relation to health

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:04.515395Z'
+publishDate: '2022-09-06T15:03:24.182540Z'
 publication_types:
 - '2'
 abstract: 'In line with EU Directives, European building portfolio owners are required

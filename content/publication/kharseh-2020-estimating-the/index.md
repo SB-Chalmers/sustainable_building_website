@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:25.650227Z'
+publishDate: '2022-09-06T15:03:44.683840Z'
 publication_types:
 - '2'
 abstract: 'Ground source heat pump (GSHP) systems are using vertical ground heat exchangers,

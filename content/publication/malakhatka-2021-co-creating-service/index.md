@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:50.322558Z'
+publishDate: '2022-09-06T15:03:10.639773Z'
 publication_types:
 - '2'
 abstract: 'The purpose of this study is to synthesize the widely used theories about

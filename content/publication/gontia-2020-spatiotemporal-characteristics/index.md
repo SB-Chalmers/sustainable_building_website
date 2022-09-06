@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:14.798838Z'
+publishDate: '2022-09-06T15:03:33.914197Z'
 publication_types:
 - '2'
 abstract: "Residential buildings take a large share of the globally accumulated construction\

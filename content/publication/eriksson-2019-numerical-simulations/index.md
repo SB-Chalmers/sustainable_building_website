@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:50.605993Z'
+publishDate: '2022-09-06T15:04:10.115881Z'
 publication_types:
 - '2'
 abstract: "Point Daylight Factor (DFP) has been used for daylighting design in Sweden\

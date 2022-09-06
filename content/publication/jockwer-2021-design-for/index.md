@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:47.600241Z'
+publishDate: '2022-09-06T15:03:07.800222Z'
 publication_types:
 - '2'
 abstract: 'The use of timber and the implementation of the concept of circularity

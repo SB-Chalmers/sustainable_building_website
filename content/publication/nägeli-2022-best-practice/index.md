@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:29.713782Z'
+publishDate: '2022-09-06T15:02:49.594189Z'
 publication_types:
 - '2'
 abstract: "Buildings are responsible for 38% of global greenhouse gas (GHG) emissions\

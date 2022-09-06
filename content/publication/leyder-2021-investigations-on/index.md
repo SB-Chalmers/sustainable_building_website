@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:49.037450Z'
+publishDate: '2022-09-06T15:03:09.217611Z'
 publication_types:
 - '2'
 abstract: 'In Switzerland, the advantages of timber buildings for the climate are

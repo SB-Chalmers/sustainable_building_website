@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:11.062579Z'
+publishDate: '2022-09-06T15:04:27.480872Z'
 publication_types:
 - '2'
 abstract: 'Growing urban population is putting pressure on the supply of natural resources

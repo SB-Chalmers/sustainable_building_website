@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:48.116702Z'
+publishDate: '2022-09-06T15:04:07.547274Z'
 publication_types:
 - '2'
 abstract: 'Many studies have investigated different aspects in the decarbonisation

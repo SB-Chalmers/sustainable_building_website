@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:46.883192Z'
+publishDate: '2022-09-06T15:04:06.271683Z'
 publication_types:
 - '2'
 abstract: 'This paper reveals the main factors that guide road alignment design process

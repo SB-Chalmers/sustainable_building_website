@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:20:37.307255Z'
+publishDate: '2022-09-06T15:02:56.987338Z'
 publication_types:
 - '2'
 abstract: 'The main aim of the Spaces project is to support architects in the design

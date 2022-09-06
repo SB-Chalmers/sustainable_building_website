@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:37.176585Z'
+publishDate: '2022-09-06T15:03:55.072490Z'
 publication_types:
 - '2'
 abstract: 'In this study, a top-down method for constructing databases of industrial

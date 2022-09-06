@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:21:55.024755Z'
+publishDate: '2022-09-06T15:04:13.848794Z'
 publication_types:
 - '2'
 abstract: 'A large share of construction material stock (MS) accumulates in urban
