@@ -16,7 +16,7 @@ tags:
 categories:
   - Projects
 authors:
-  - alex-gonzalez  
+  - alex-arnoldo-gonzalez-caceres
   - alexander-hollberg
   - sanjay-somanath
 external_link: ""
