@@ -16,7 +16,9 @@ image:
   preview_only: true
 ---
 ![SB-at-sbe](featured.jpg)
-The Research group Sustainable building was well represented at the Sustainable Built Environment (SBE) Conference in Berlin from September 20thto 23rdwith four researchers. The conference with the theme “Built Environment within Planetary Boundaries” had a strong focus on technical sessions such as Life Cycle Assessment and Circularity but included also topics such as Urban Governance.Toivo Säwen presented a paper on a “Tool characterisation framework for parametric building LCA”. First, a framework for classification and characterisation of tools based on workflow, adaptability, and required user knowledge was developed. Second, a tool inventory was performed, identifying 13 parametric LCA plug-ins for GH. Finally, four of these plug-ins were further investigated using the developed evaluation framework, a user persona approach, and a simplified test case.The paper evolved form a Master thesis by Emil Magnusson and can be accessed here: 
+The Research group Sustainable building was well represented at the Sustainable Built Environment (SBE) Conference in Berlin from September 20thto 23rd with four researchers. The conference with the theme “Built Environment within Planetary Boundaries” had a strong focus on technical sessions such as Life Cycle Assessment and Circularity but included also topics such as Urban Governance.
+
+Toivo Säwen presented a paper on a “Tool characterisation framework for parametric building LCA”. First, a framework for classification and characterisation of tools based on workflow, adaptability, and required user knowledge was developed. Second, a tool inventory was performed, identifying 13 parametric LCA plug-ins for GH. Finally, four of these plug-ins were further investigated using the developed evaluation framework, a user persona approach, and a simplified test case.The paper evolved form a Master thesis by Emil Magnusson and can be accessed here: 
 
 [Link to article](https://iopscience.iop.org/article/10.1088/1755-1315/1078/1/012090)
 
@@ -36,6 +38,3 @@ We would like to thank the conference organisers very much and look forward to t
 <strong> Read more </strong>
 
 [Further information on the SBE series](http://www.sbe-series.org/)  
-
-[DTCC - Digital Twins for Circularity](https://dtcc.chalmers.se/digital-twins-for-circularity/)  
-
