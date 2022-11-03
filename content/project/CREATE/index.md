@@ -19,6 +19,7 @@ categories:
 authors:
   - leonardo-rosado
   - holger-wallbaum 
+  - Maud Lanau
 external_link: ""
 image:
   caption: CREATE Infographic
