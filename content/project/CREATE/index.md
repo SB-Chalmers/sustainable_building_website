@@ -144,9 +144,9 @@ October 20-21 - [Physical CREATE project meeting in Gothenburg]({{< relref "/pos
 
 ## Project results/ Deliverables
 ### Overarching Goals
-1.	develop and visualize an overview of material stocks and flows that are part of the built environment, 
-2.	provide tailored software solutions to cities that support a circular built environment, and 
-3.	co-create governance arrangements that enable a broader participation of stakeholders, experimentation with 
+1.	Develop and visualize an overview of material stocks and flows that are part of the built environment, 
+2.	Provide tailored software solutions to cities that support a circular built environment, and 
+3.	Co-create governance arrangements that enable a broader participation of stakeholders, experimentation with 
     decision-support information, and the upscaling of best practices. 
 
 ### Deliverables
