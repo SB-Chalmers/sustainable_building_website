@@ -1,6 +1,6 @@
 ---
 title: "Second Nordic Build-LCA PhD forum hosted at Chalmers - Call for abstracts "
-date: 2022-12-08
+date: 2022-12-12
 summary: "We are now welcoming abstracts for the second Nordic Build-LCA PhD forum held at Chalmers University of Technology in Gothenburg"
 draft: false
 featured: false
@@ -24,11 +24,11 @@ The participants should be registered PhD students with a relation to the Nordic
 
 **Important dates:** 
 
-Abstract submission deadline: February 21st   
+Abstract submission deadline: February 10th   
 
-Acceptance notification: March 31st  
+Acceptance notification: March 13th  
 
-PhD Forum: May 15th & 16th  
+PhD Forum: May 3rd & 4th  
 
  
 
@@ -53,4 +53,5 @@ Please, send your abstract as a one-page PDF file to [lca-phd-forum.ace@chalmers
 
 The Nordic Build LCA PhD student forum is organized by a collaboration between Norwegian University of Science and Technology (NTNU), Aalborg University, Chalmers University of Technology, Royal Institute of Technology (KTH), and Aalto University. 
 
+{{% staticref "files/nordiclca-23.pdf" "newtab" %}} Download Call fo abstracts{{% /staticref %}}
 <!--EndFragment-->
