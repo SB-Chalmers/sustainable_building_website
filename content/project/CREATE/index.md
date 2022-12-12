@@ -28,10 +28,6 @@ image:
   focal_point: Smart
   preview_only: false
 
-gallery_item:
-- album: create
-  image: img1.jpg
-  caption: Physical CREATE meeting in Gothenburg at Universeum
 
 ---
 {{< toc >}}
@@ -144,7 +140,6 @@ Göteborgs Stad, Kretslopp och vatten (GS)
 
 
 ## News
-{{< gallery album="create" >}}
 October 20-21 - [Physical CREATE project meeting in Gothenburg]({{< relref "/post/CREATE-meeting-gbg" >}})
 
 ## Project results/ Deliverables
