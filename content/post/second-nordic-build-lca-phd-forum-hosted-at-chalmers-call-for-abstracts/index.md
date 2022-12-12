@@ -58,5 +58,5 @@ The Nordic Build LCA PhD student forum is organized by a collaboration between N
 Technology (NTNU), Aalborg University, Chalmers University of Technology, Royal Institute of Technology (KTH), and 
 Aalto University.
 
-{{% staticref "files/nordiclca-23.pdf" "newtab" %}} Download Call fo abstracts{{% /staticref %}}
+{{% staticref "files/nordiclca-23.pdf" "newtab" %}} Download Call for abstracts{{% /staticref %}}
 <!--EndFragment-->
