@@ -27,6 +27,12 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+gallery_item:
+- album: create
+  image: img1.jpg
+  caption: Physical CREATE meeting in Gothenburg at Universeum
+
 ---
 {{< toc >}}
 
@@ -47,13 +53,18 @@ will result in numerous capacity building moments throughout the entire project.
 of cities steering the circular economy transition together with new governance interventions will result in concrete 
 proposals of tailored governance arrangements for the participating cities including a concrete proposal for an upscaling 
 strategy for Europe.  
- 
 
 ## Work Package Structure
 The CREATE project follows a set of strategic underpinnings that connect the different work packages in three dimensions:
-1.	A living lab approach that is used throughout all work packages and allows for an integrated co-production of the project with stakeholders from the quadruple helix;
-2.	A multi-scalar capacity building approach, where the use of the living labs as the focal point of the work developed, complemented by the dissemination of knowledge to fellow cities and an outreach to urban networks in Europe, will allow for an optimized scalable process;
-3.	A tailored and adaptable approach that is based on the pre-existing conditions of the urban living labs and fellow cities, i.e, existing data, methods and governance procedures already being utilized by the stakeholders and providing them with new knowledge.
+
+1.	A living lab approach that is used throughout all work packages and allows for an integrated co-production of the
+    project with stakeholders from the quadruple helix;
+2.	A multi-scalar capacity building approach, where the use of the living labs as the focal point of the work developed, 
+    complemented by the dissemination of knowledge to fellow cities and an outreach to urban networks in Europe, will 
+    allow for an optimized scalable process;
+3.	A tailored and adaptable approach that is based on the pre-existing conditions of the urban living labs and fellow 
+    cities, i.e, existing data, methods and governance procedures already being utilized by the stakeholders and 
+    providing them with new knowledge.
 Through these three dimensions of concepts, the 6 work packages within CREATE project are structured and interlinked as below:
 
 ![Create  Structure](Structure.png)
@@ -131,8 +142,10 @@ Brasov Metropolitan Agency for Sustainable Development (BMA)
 <img src="logo%20of%20GS.jpg" width="200">
 Göteborgs Stad, Kretslopp och vatten (GS)
 
+
 ## News
-Updates will be added to this space as the project progresses
+{{< gallery album="create" >}}
+October 20-21 - [Physical CREATE project meeting in Gothenburg]({{< relref "/post/CREATE-meeting-gbg" >}})
 
 ## Project results/ Deliverables
 ### Overarching Goals
