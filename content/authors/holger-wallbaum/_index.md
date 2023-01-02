@@ -1,6 +1,6 @@
 ---
 title: Holger Wallbaum
-role: Full Professor, Vice-Head of Department and Vice-Dean for Knowledge Transfer and Corporate Relations
+role: Full Professor, Vice-Head of Department and Vice-Dean for Research
 avatar_filename: avatar.jpg
 organizations:
   - name: Architecture and Civil Engineering, Building Technology, Sustainable Building
