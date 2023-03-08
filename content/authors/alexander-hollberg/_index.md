@@ -72,7 +72,4 @@ user_groups:
 
 ---
 
-Alexander Hollberg is Assistant Professor in the Division of Building Technology, at Chalmers.
-Alexander joined the research group Sustainable Building as an Assistant Professor for Computational Sustainable Design to work on developing methods and tools that facilitate the design of sustainable buildings and cities. 
-
- The digital tools are used to assess, optimize, and visualize the design’s performance in real-time (energy, LCA, LCC, daylight, etc.). The goal is to provide decision-makers with the necessary information in the early design stages. Since 2017, he is an expert for digitalization for the German Sustainable Building Council (DGNB). Furthermore, he is founder and Head of R&D at CAALA, a software and consulting startup based in Munich, Germany.
+Alexander Hollberg is Associate Professor for Computational Sustainable Design in the Division of Building Technology, at Chalmers. Alexander joined the research group Sustainable Building to work on developing methods and tools that facilitate the design of sustainable buildings and cities. The digital tools are used to assess, optimize, and visualize the design’s performance in real-time (energy, LCA, LCC, daylight, etc.). The goal is to provide decision-makers with the necessary information in the early design stages. He is co-founder and scientific advisor at CAALA, a software and consulting startup based in Munich, Germany.
