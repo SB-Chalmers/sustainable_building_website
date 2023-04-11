@@ -4,7 +4,7 @@ date: 2023-04-11T07:35:35.465Z
 draft: false
 featured: false
 authors:
-  - alexander hollber
+  - alexander hollberg
   - liane thuvander
   - sanjay somanath
 tags:
