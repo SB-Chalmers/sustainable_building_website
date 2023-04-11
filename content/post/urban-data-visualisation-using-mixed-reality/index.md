@@ -4,9 +4,15 @@ date: 2023-04-11T07:35:35.465Z
 draft: false
 featured: false
 authors:
-  - AlexanderHollberg
+  - alexander hollber
+  - liane thuvander
+  - sanjay somanath
 tags:
-  - Twinable;VR;DigitalTools;Visualisation
+  - twinable
+  - dtcc
+  - VR
+  - digital tools
+  - visualisation
 projects:
   - Twinable
 image:
