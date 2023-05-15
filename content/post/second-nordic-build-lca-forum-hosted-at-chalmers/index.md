@@ -23,4 +23,4 @@ A workshop lead by Matti Kuittinen highlighted the increasing uptake of LCA in n
 
 The second day followed a similar structure with parallel sessions in the morning and a workshop about visualization and communication of LCA results in the afternoon. The final feedback round clearly showed that this kind of informal settings to share experiences and challenges from PhD student to PhD student are highly appreciated by the students.
 
-The next forum will take place in Helsinki in May 2024. The call for abstracts will probably be announce end of 2023. We look forward to seeing everyone again and hope to also meet new PhDs from all the Nordic countries!
+The next forum will take place in Helsinki in May 2024. The call for abstracts will probably be announced end of 2023. We look forward to seeing everyone again and hope to meet new PhDs from all the Nordic countries!
