@@ -3,12 +3,15 @@ title: Built-LCA Hackathon
 date: 2023-05-25T11:28:27.293Z
 draft: false
 featured: false
-authors: []
+authors:
+  - alexander-hollberg
 tags:
   - Digital tools
   - LCA
   - hackathon
   - simulation
+projects:
+  - decarbonaite
 image:
   filename: https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3870&q=80
   focal_point: CENTER
