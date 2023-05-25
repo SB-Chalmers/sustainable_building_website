@@ -3,19 +3,16 @@ title: Built-LCA Hackathon
 date: 2023-05-25T11:28:27.293Z
 draft: false
 featured: false
-authors:
-  - Holger Wallbaum
-  - Leonardo Rosado
-  - Maud Lanau
+authors: []
 tags:
-  - EU
-  - Optimisation
-  - Material Flows
-  - CREATE
+  - Digital tools
+  - LCA
+  - hackathon
+  - simulation
 image:
   filename: https://images.unsplash.com/photo-1495592822108-9e6261896da8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3870&q=80
   focal_point: CENTER
-  preview_only: true
+  preview_only: false
 ---
 The Built-LCA Hackathon aims to explore the effective use of databases and develop a flexible communication system between Grasshopper and data sources of different resolutions. The primary challenge is to analyse the DeCarbonAIte Data workflow, which involves computing, storing, and presenting results, while incorporating databases into the process. It is crucial to consider that databases are not static entities; they require constant updates with new data or restructuring.\
 \
