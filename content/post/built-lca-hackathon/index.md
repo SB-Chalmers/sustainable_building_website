@@ -28,7 +28,7 @@ Devise a database and communication system that seamlessly integrates within the
 <br> </br>
 <strong> Read more </strong>
 
-[Sign in the Google form here](https://docs.google.com/forms/d/1mWgPHsWyy2v0MyuUeT50flfx1ibIUpUC2dKMExWqu1E/prefill)
+[Sign in the Google form here](https://docs.google.com/forms/d/e/1FAIpQLSfstKMqQGwVxIqz0MY2DmjuPCElby3jpxTgW9Pl53HkTFGrUw/viewform)
 
 <!--StartFragment-->
 
