@@ -1,7 +1,7 @@
 ---
 title: Alex Gonzalez Caceres
 role: Postdoctoral researcher
-avatar_filename: dsc_8774.jpg
+avatar_filename: dsc_8774_2.jpg
 organizations:
   - name: Chalmers University of Technology, Architecture and Civil Engineering,
       Building Technology, Sustainable Building
