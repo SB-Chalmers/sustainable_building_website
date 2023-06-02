@@ -16,9 +16,7 @@ image:
   focal_point: CENTER
   preview_only: true
 ---
-
-
-EU BUILD UP is the portal for Energy Efficiency in buildings hosted by the European Commission. On September 26, the first physical meeting of the EU BUILD UP ambassadors took place in Brussels. Holger had the opportunity to present the research activities at Chalmers within the framework that is called “Architecture 4.0”. Furthermore, the meeting participants discussed the future pathway of the BUILD UP programme and milestones for 2023, which will, among others, lead to so-called topic of the months, where good practices on energy efficiency in buildings from all European member countries will be shared via the different media channels (for more information, consult the following weblinks). 
+In May the results of the DecarbonAIte project were published on the European Commission's BUILD UP website. The article shows the case study developed in Uddevalla where different renovation solutions in a residential building from the 80s were analysed. The project uses parametric simulations developed with Artificial Intelligence to support decision making in the renovation of sustainable buildings taking into account energy efficiency, life-cycle greenhouse gas emissions and life-cycle costs.
 <br> </br>
 <strong> Read more </strong>
 
