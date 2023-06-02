@@ -5,6 +5,7 @@ draft: false
 featured: false
 authors:
   - Alex Gonzalez
+  - Alexander Hollberg
 tags:
   - EU
   - Energy efficiency
