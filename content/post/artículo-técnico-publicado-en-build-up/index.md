@@ -1,10 +1,10 @@
 ---
-title: Artículo técnico publicado en BUILD UP
+title: Technical article published in BUILD UP
 date: 2023-06-02T12:21:35.387Z
 draft: false
 featured: false
 authors:
-  - Holger Wallbaum
+  - Alex Gonzalez
 tags:
   - EU
   - Energy efficiency
