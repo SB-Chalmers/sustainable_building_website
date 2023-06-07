@@ -16,6 +16,8 @@ image:
   focal_point: CENTER
   preview_only: true
 ---
+![](decarbonaite.jpg)
+
 In May the results of the DecarbonAIte project were published on the European Commission's BUILD UP website. The article shows the case study developed in Uddevalla where different renovation solutions in a residential building from the 80s were analysed. The project uses parametric simulations developed with Artificial Intelligence to support decision making in the renovation of sustainable buildings taking into account energy efficiency, life-cycle greenhouse gas emissions and life-cycle costs.
 <br> </br>
 <strong> Read more </strong>
