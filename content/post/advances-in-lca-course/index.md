@@ -10,7 +10,7 @@ featured: false
 authors:
   - T﻿oivo Säwén
   - Shuang Wang
-  - Anna Wöhler
+  - anna-wohler
 tags:
   - Course
   - LCA
