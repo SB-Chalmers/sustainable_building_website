@@ -13,7 +13,7 @@ summary: The aim of the course is to equip students with the necessary skills
   form.
 authors:
   - Alexander-Hollberg
-  - toivo-sawen
+  - alex-gonzalez-caceres
 url_video: ""
 featured: false
 external_link: https://www.student.chalmers.se/sp/course?course_id=37286
