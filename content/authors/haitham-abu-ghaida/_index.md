@@ -1,7 +1,7 @@
 ---
 title: Haitham Abu-Ghaida
 role: Visiting PhD student
-avatar_filename: pxl_20211001_123152900.portrait.jpg
+avatar_filename: avatar.jpg
 bio: Life Cycle Assessment, Design for Disassembly, BIM, Python
 social: []
 organizations:
