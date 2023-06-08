@@ -20,6 +20,7 @@ image:
   focal_point: Smart
   preview_only: false
   alt_text: ""
+  rotate: 90
   caption: Poster presentation by Liza Sellström, Luleå University of Technology
 ---
 T﻿hree PhD students from the Sustainable Building research group attended the Advances in LCA course which was offered in collaboration between Chalmers (TME department) and SLU (Swedish University of Agricultural Science) in Uppsala. The course covered topics like Perspectives on LCA and environmental analysis; The history of LCA; LCA in legislation; LCA as a multi-purpose tool in the organization; Actors in the life cycle; Attributional/Consequential LCA; Data selection; Time in LCA; Prospective LCA; Uncertainties in LCA; Fundamental LCIA concepts and methods; Biodiversity; Waste Management; Water Footprint; Climate impact; Monetary valuation; AI in LCA; Life Cycle Costing; Social LCA; and Life cycle sustainability assessment.
