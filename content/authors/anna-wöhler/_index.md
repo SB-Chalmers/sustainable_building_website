@@ -1,4 +1,7 @@
 ---
+title: Anna Wöhler
+role: PhD Student
+avatar_filename: avatar.jpg
 organizations:
   - name: Chalmers University of Technology, Architecture and Civil Engineering,
       Building Technology, Sustainable Building
@@ -6,8 +9,6 @@ organizations:
 superuser: false
 authors:
   - anna-woehler
-title: Anna Wöhler
-role: PhD Student
 bio: null
 interests:
   - Life Cycle Assessment
