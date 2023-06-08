@@ -1,11 +1,11 @@
 ---
 title: Advances in LCA course
-date: 2023-06-29T14:36:39.400Z
+date: 2023-06-08T14:51:19.160Z
 summary: T﻿hree Sustainable Building research group PhD students attended the
   Advances in LCA course which was held in collaboration between Chalmers and
   SLU in Uppsala, discussing the cutting edge research and debates in the field
   of life cycle assessment.
-draft: true
+draft: false
 featured: false
 authors:
   - T﻿oivo Säwén
