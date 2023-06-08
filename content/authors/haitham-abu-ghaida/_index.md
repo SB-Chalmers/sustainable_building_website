@@ -7,7 +7,7 @@ interests:
   - Life Cycle Assessment
   - Design for Disassembly
   - BIM
-  - Python
+  - Software
 social:
   - display:
       header: false
