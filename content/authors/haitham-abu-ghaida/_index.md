@@ -3,7 +3,27 @@ title: Haitham Abu-Ghaida
 role: Visiting PhD student
 avatar_filename: avatar.jpg
 bio: Life Cycle Assessment, Design for Disassembly, BIM, Python
-social: []
+interests:
+  - Life Cycle Assessment
+  - Design for Disassembly
+  - BIM
+  - Python
+social:
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/haithamag/
+    icon_pack: fab
+    icon: linkedin
+  - display:
+      header: false
+    link: https://github.com/Haitham-ghaida
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=3OGibigAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: Hasselt University
 email: haitham.ghaida@uhasselt.be
