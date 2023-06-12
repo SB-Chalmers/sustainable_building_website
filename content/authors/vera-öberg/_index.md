@@ -12,6 +12,11 @@ interests:
   - LCA
 social:
   - display:
+      header: false
+    link: vera.oberg@chalmers.se
+    icon_pack: far
+    icon: envelope
+  - display:
       header: true
     link: https://www.linkedin.com/in/vera-oberg/
     icon_pack: fab
@@ -22,7 +27,7 @@ education:
     - course: MSc in Architectural Engineering
       institution: Luleå University of Technology
       year: 2020
-email: vera.oberg@chalmers.se
+email: ""
 superuser: false
 ---
 V﻿era is a PhD Student at the department of Architecture and Civil Engineering. She has a background in architectural and structural engineering. 
