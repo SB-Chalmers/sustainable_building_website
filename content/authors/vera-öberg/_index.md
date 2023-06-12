@@ -14,7 +14,7 @@ social:
   - display:
       header: false
     link: vera.oberg@chalmers.se
-    icon_pack: far
+    icon_pack: fas
     icon: envelope
   - display:
       header: true
