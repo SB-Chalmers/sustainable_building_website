@@ -1,6 +1,6 @@
 ---
 title: Divia has defended her licentiate thesis
-date: 2023-06-08T14:42:37.277Z
+date: 2023-06-16T12:07:57.328Z
 draft: false
 featured: true
 authors:
