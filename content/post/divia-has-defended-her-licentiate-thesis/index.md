@@ -2,7 +2,7 @@
 title: Divia has defended her licentiate thesis
 date: 2023-06-08T14:42:37.277Z
 draft: false
-featured: false
+featured: true
 authors:
   - divia-jimenez-encarnacion
 tags:
