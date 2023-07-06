@@ -32,6 +32,7 @@ image:
   caption: ACE285 - Integrated sustainable building design – engineers
   focal_point: Center
   preview_only: false
+  filename: featured.jpg
 url_code: ""
 ---
 Study Period: LP3 January to March\
