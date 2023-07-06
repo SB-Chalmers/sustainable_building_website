@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slides: ""
 url_pdf: ""
 widget: portfolio
