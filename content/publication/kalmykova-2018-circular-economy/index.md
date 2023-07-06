@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-09-06T15:22:27+02:00
+lastmod: 2023-07-06T11:08:05+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:26.204012Z'
+publishDate: '2023-07-06T09:08:04.484371Z'
 publication_types:
 - '2'
 abstract: 'The paper provides an overview of the literature on Circular Economy (CE)

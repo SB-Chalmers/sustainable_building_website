@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-09-06T15:23:34+02:00
+lastmod: 2023-07-06T11:08:58+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:23:33.427624Z'
+publishDate: '2023-07-06T09:08:57.906182Z'
 publication_types:
 - '2'
 abstract: 'The use of round bamboo as load bearing member for low-rise housing is

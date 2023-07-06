@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-09-06T15:20:49+02:00
+lastmod: 2023-07-06T11:06:43+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:03:07.800222Z'
+publishDate: '2023-07-06T09:06:42.485875Z'
 publication_types:
 - '2'
 abstract: 'The use of timber and the implementation of the concept of circularity

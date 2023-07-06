@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-09-06T15:21:05+02:00
+lastmod: 2023-07-06T11:06:56+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:03:24.182540Z'
+publishDate: '2023-07-06T09:06:55.960300Z'
 publication_types:
 - '2'
 abstract: 'In line with EU Directives, European building portfolio owners are required

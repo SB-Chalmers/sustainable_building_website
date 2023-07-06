@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-09-06T15:20:38+02:00
+lastmod: 2023-07-06T11:06:35+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:02:56.987338Z'
+publishDate: '2023-07-06T09:06:34.216518Z'
 publication_types:
 - '2'
 abstract: 'The main aim of the Spaces project is to support architects in the design

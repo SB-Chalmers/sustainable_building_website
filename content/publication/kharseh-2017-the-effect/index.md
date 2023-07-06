@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-09-06T15:22:50+02:00
+lastmod: 2023-07-06T11:08:24+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:49.284885Z'
+publishDate: '2023-07-06T09:08:23.325837Z'
 publication_types:
 - '2'
 abstract: 'This work investigates the possibility of improving the economic performance

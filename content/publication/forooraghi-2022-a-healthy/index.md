@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-06T15:20:21+02:00
+lastmod: 2023-07-06T11:06:20+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:02:40.368824Z'
+publishDate: '2023-07-06T09:06:19.733120Z'
 publication_types:
 - '2'
 abstract: 'This two-wave study (time lag of six months and two years post-relocation)

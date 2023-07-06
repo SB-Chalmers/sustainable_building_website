@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-06T15:20:28+02:00
+lastmod: 2023-07-06T11:06:26+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:02:47.110062Z'
+publishDate: '2023-07-06T09:06:25.920540Z'
 publication_types:
 - '2'
 abstract: 'Huvudsyftet med denna avhandling är att kommunicera motiv, process och

@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:22:14+02:00
+lastmod: 2023-07-06T11:07:54+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:04:30.117963Z'
+publishDate: '2023-07-06T09:07:53.933828Z'
 publication_types:
 - '2'
 abstract: 'The need for winter road maintenance (WRM) is changing in cold regions

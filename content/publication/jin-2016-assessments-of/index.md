@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-09-06T15:23:19+02:00
+lastmod: 2023-07-06T11:08:48+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:23:18.872972Z'
+publishDate: '2023-07-06T09:08:47.387834Z'
 publication_types:
 - '2'
 abstract: 'The indoor environmental quality is of major interest for occupants in

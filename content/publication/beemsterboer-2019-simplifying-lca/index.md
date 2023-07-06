@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:21:46+02:00
+lastmod: 2023-07-06T11:07:32+02:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:04:05.038004Z'
+publishDate: '2023-07-06T09:07:31.408612Z'
 publication_types:
 - '2'
 abstract: 'This thesis discusses the use of environmental life cycle assessment (LCA)

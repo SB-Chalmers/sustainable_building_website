@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:22:18+02:00
+lastmod: 2023-07-06T11:07:58+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:17.287284Z'
+publishDate: '2023-07-06T09:07:57.099231Z'
 publication_types:
 - '2'
 abstract: 'Urban building-stocks are responsible for a significant share of resource

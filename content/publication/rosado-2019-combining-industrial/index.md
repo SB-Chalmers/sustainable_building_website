@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:22:12+02:00
+lastmod: 2023-07-06T11:07:52+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:04:27.480872Z'
+publishDate: '2023-07-06T09:07:51.816523Z'
 publication_types:
 - '2'
 abstract: 'Growing urban population is putting pressure on the supply of natural resources

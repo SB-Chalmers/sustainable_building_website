@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-09-06T15:22:56+02:00
+lastmod: 2023-07-06T11:08:29+02:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:55.590209Z'
+publishDate: '2023-07-06T09:08:28.537150Z'
 publication_types:
 - '2'
 abstract: 'Carbon Capture and Utilization is an attractive strategy not only due to

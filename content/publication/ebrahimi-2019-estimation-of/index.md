@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:21:50+02:00
+lastmod: 2023-07-06T11:07:35+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:04:08.836437Z'
+publishDate: '2023-07-06T09:07:34.590914Z'
 publication_types:
 - '2'
 abstract: 'Combinations of different factors and their relative importance have a

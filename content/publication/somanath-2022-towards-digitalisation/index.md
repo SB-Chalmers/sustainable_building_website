@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-06T15:20:33+02:00
+lastmod: 2023-07-06T11:06:31+02:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:02:52.090673Z'
+publishDate: '2023-07-06T09:06:30.070326Z'
 publication_types:
 - '2'
 abstract: "The primary goal of the built environment is to create the infrastructure\

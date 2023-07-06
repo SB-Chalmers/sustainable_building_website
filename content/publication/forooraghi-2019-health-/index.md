@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:21:54+02:00
+lastmod: 2023-07-06T11:07:38+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:04:12.564226Z'
+publishDate: '2023-07-06T09:07:37.836865Z'
 publication_types:
 - '2'
 abstract: 'Aim : This review aims to explore the relation between the physical office

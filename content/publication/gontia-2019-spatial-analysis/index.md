@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-09-06T15:21:56+02:00
+lastmod: 2023-07-06T11:07:39+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T15:04:13.848794Z'
+publishDate: '2023-07-06T09:07:38.898586Z'
 publication_types:
 - '2'
 abstract: 'A large share of construction material stock (MS) accumulates in urban

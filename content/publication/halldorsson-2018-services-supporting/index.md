@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-09-06T15:22:24+02:00
+lastmod: 2023-07-06T11:08:03+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:22:23.641367Z'
+publishDate: '2023-07-06T09:08:02.390080Z'
 publication_types:
 - '2'
 abstract: 'Energy services provided by energy suppliers have been identified as important

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Researcher - Institutet för stressmedicin (ISM)
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher
+- Alumni
 
 ---
 Melina's research focuses on the relationship between health and the built environment, drawing on a health approach called salutogenesis. More specifically, her research addresses how office design can promote employee health and wellbeing, by studying factors of the built environment that makes us healthy rather than those leading to disease and illness.

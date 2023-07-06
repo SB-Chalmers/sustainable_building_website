@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-09-06T15:24:02+02:00
+lastmod: 2023-07-06T11:09:21+02:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:24:01.606485Z'
+publishDate: '2023-07-06T09:09:20.951841Z'
 publication_types:
 - '2'
 abstract: 'Material flow analysis (MFA) is a tool for research and decision support

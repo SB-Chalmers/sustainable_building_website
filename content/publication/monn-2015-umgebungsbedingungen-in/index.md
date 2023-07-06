@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-09-06T15:23:57+02:00
+lastmod: 2023-07-06T11:09:17+02:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-06T13:23:56.615761Z'
+publishDate: '2023-07-06T09:09:16.708228Z'
 publication_types:
 - '2'
 abstract: 'During the research project “Quality of Sustainable Buildings” (English:
