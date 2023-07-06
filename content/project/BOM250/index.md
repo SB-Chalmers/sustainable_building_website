@@ -22,6 +22,7 @@ image:
   caption: BOM250 - Life cycle engineering
   focal_point: Center
   preview_only: false
+  filename: featured.jpg
 url_code: ""
 ---
 The master course aims to provide in-depth knowledge on the concepts of Life Cycle Engineering and sustainable design in the built environment. The focus is on buildings and road as well as water infrastructures in different climate zones, regulative frameworks and social-economic circumstances. The overall purpose of the course is to acquaint students with state-of-the-art knowledge for their future professional role as civil engineers, road engineers, planer, consultants, contractors and similar.
