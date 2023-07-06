@@ -2,7 +2,7 @@
 slides: ""
 url_pdf: ""
 widget: portfolio
-title: BOM250 - Life cycle engineering 2
+title: BOM250 - Life cycle engineering
 date: 2021-05-08T20:17:53+02:00
 summary: The master course aims to provide in-depth knowledge on the concepts of
   Life Cycle Engineering and sustainable design in the built environment.
