@@ -34,7 +34,7 @@ image:
   preview_only: false
 url_code: ""
 ---
-Study Period: LP2 November to January\
+Study Period: LP3 January to March\
 [Go to course page](https://www.student.chalmers.se/sp/course?course_id=37286)
 
 The aim of the course is to equip students with the necessary skills and abilities to carry out design for sustainable building, integrating environmental, functional, technical, and aesthetical qualities in a design concept. Furthermore, they shall be able to cooperate over professional boundaries in the design processes. They are also expected to be able to formulate and communicate their main ideas and goals orally and in written form.
