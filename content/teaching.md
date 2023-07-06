@@ -34,13 +34,13 @@ sections:
       # To remove the button toolbar, delete the entire `buttons` block.
       buttons:
         - name: All
-          tag: 'Teaching'
-        - name: Courses
           tag: 'Teaching_Courses'
-        - name: Offered Master's Thesis
-          tag: 'Teaching_MastersThesisOffered'
-        - name: Completed Master's Thesis
-          tag: 'Teaching_MastersThesisCompleted'
+#        - name: Courses
+#          tag: 'Teaching_Courses'
+#        - name: Offered Master's Thesis
+#          tag: 'Teaching_MastersThesisOffered'
+#        - name: Completed Master's Thesis
+#          tag: 'Teaching_MastersThesisCompleted'
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
