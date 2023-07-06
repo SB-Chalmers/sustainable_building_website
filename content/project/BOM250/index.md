@@ -1,44 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-widget: portfolio
-title: "BOM250 - Life cycle engineering"
-featured: false
-summary: "The master course aims to provide in-depth knowledge on the concepts of Life Cycle Engineering and sustainable design in the built environment."
-authors: [Holger-Wallbaum,Alexander-Hollberg]
-tags: [Teaching,Teaching_Courses]
-categories: [Teaching]
-date: 2021-05-08T20:17:53+02:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "BOM250 - Life cycle engineering"
-  focal_point: "Center"
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
+url_pdf: ""
+widget: portfolio
+title: BOM250 - Life cycle engineering 2
+date: 2021-05-08T20:17:53+02:00
+summary: The master course aims to provide in-depth knowledge on the concepts of
+  Life Cycle Engineering and sustainable design in the built environment.
+authors:
+  - Holger-Wallbaum
+  - Alexander-Hollberg
+url_video: ""
+featured: false
+external_link: ""
+url_slides: ""
+tags:
+  - Teaching
+  - Teaching_Courses
+categories:
+  - Teaching
+image:
+  caption: BOM250 - Life cycle engineering
+  focal_point: Center
+  preview_only: false
+url_code: ""
 ---
 The master course aims to provide in-depth knowledge on the concepts of Life Cycle Engineering and sustainable design in the built environment. The focus is on buildings and road as well as water infrastructures in different climate zones, regulative frameworks and social-economic circumstances. The overall purpose of the course is to acquaint students with state-of-the-art knowledge for their future professional role as civil engineers, road engineers, planer, consultants, contractors and similar.
   
