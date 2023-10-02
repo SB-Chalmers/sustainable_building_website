@@ -1,6 +1,6 @@
 ---
 title: Twinable - Interactive urban planning Featured article on xyHt 
-date: 2023-10-14T07:35:35.465Z
+date: 2023-10-02T07:35:35.465Z
 draft: false
 featured: false
 authors:
