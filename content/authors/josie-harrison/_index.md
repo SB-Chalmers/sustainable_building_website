@@ -1,7 +1,7 @@
 ---
 title: Josie Harrison
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 organizations:
   - name: Chalmers University of Technology
     url: https://www.chalmers.se/en/staff/Pages/josie.aspx/
