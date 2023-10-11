@@ -4,7 +4,7 @@ role: PhD Student
 avatar_filename: avatar.png
 organizations:
   - name: Chalmers University of Technology
-    url: https://www.chalmers.se/en/staff/Pages/josie.aspx/
+    url: https://www.chalmers.se/en/persons/josie/
 superuser: true
 authors:
   - josie-harrison
