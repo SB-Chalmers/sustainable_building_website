@@ -4,7 +4,7 @@ date: 2023-10-12T09:40:40.653Z
 draft: false
 featured: false
 authors:
-  - ElenaMalakhatka
+  - Elena Malakhatka
 tags: []
 projects: []
 image:
