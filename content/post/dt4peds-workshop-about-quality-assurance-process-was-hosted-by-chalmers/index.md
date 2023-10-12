@@ -8,13 +8,13 @@ authors:
 tags: []
 projects: []
 image:
-  filename: workshop-group-5-6-october-2023_low-res.jpg
+  filename: all-participants-5-6-october-2023_low-res.jpg
   focal_point: ""
   preview_only: true
   caption: DT4PEDs
   alt_text: DT4PEDs
 ---
-![](all-participants-5-6-october-2023_low-res.jpg)
+![](workshop-group-5-6-october-2023_low-res.jpg)
 
 The Digital Twins for Positive Energy Districts (DT4PEDs) international team had its first in-person meeting in Gothenburg on the 5th and 6th of October. Organized by the Swedish team, the workshop’s main focus was the collaborative development of Quality Assurance requirements, pertinent to both the Positive Energy Districts (PED) and its accompanying Digital Twin.
 
