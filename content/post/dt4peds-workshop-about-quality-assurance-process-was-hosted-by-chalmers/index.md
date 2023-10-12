@@ -8,7 +8,7 @@ authors:
 tags: []
 projects: []
 image:
-  filename: featured.jpg
+  filename: workshop-group-5-6-october-2023_low-res.jpg
   focal_point: ""
   preview_only: true
   caption: DT4PEDs
