@@ -4,18 +4,15 @@ date: 2023-10-12T09:40:40.653Z
 draft: false
 featured: false
 authors:
-  - Alina galimshina
-tags:
-  - lca
-  - bombyx
-  - tools
-projects: null
+  - ElenaMalakhatka
+tags: []
+projects: []
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: true
-  caption: CISBAT Conference
-  alt_text: CISBAT Conference
+  caption: DT4PEDs
+  alt_text: DT4PEDs
 ---
 ![](all-participants-5-6-october-2023_low-res.jpg)
 
