@@ -1,10 +1,15 @@
 ---
 title: Exploring the material stock - urban form nexus for urban sustainability
 date: 2023-10-23T13:21:39.778Z
+summary: M﻿aud Lanau
 draft: false
 featured: false
-authors: []
+authors:
+  - M﻿aud Lanau
+  - Xin Bian
+  - Meta Bergauser Pont
 tags: []
+categories: []
 image:
   filename: ""
   focal_point: ""
