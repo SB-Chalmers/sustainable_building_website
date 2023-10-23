@@ -1,7 +1,7 @@
 ---
 title: Exploring the material stock - urban form nexus for urban sustainability
 date: 2023-10-23T13:21:39.778Z
-summary: M﻿aud Lanau
+summary: ""
 draft: false
 featured: false
 authors:
