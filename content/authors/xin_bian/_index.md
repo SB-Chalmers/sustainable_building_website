@@ -20,11 +20,8 @@ social:
     icon_pack: fas
     link: 'mailto: xinb@chalmers.se'
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=KaKND1UAAAAJ&hl=en
-
-
-
 
 
 education:
