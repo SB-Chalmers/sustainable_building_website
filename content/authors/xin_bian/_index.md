@@ -40,4 +40,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-Xin Bian works at the interface of two research fields – namely material stocks and urban morphology. In his research, he focuses on gaining a deeper insight into the influence of urban planning on the materials accumulated in the built environment, including their composition, volume, and associated environmental impacts. By integrating resource use and embodied carbon to into existing urban morphology metrics, Xin’s research has the potential to inform a more sustainable urban development.
+Xin Bian works at the interface of two research fields – namely material stocks and urban morphology. In his research, he focuses on gaining a deeper insight into the influence of urban planning on the materials accumulated in the built environment, including their composition, volume, and associated environmental impacts. By integrating resource use and embodied carbon into existing urban morphology metrics, Xin’s research has the potential to inform a more sustainable urban development.
