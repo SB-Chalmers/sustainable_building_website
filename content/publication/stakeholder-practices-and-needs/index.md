@@ -22,6 +22,8 @@ abstract: >
   These observations open interesting perspectives for the CREATE project. They confirm the interest of better producing and sharing data on material stocks and flows at an urban scale (project or territory) as a decision support. 
 draft: false
 featured: false
+projects:
+  - CREATE
 image:
   filename: ""
   focal_point: ""
