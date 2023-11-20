@@ -119,7 +119,7 @@ October 20-21 - \[Physical CREATE project meeting in Gothenburg]({{< relref "/po
 
 ![CREATE Deliverables](Deliverables.jpg)
 
-> * ﻿[D﻿eliverable 2.1 ﻿Stakeholder practices and needs](assets/media/create_d2.1-stakeholder-practices-and-needs.pdf)
-> * [D﻿eliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](assets/media/create_d5.1-description-of-material-and-energy-flows-of-urban-building-and-infrastructure-construction.pdf)
+> * <a href="https://chalmers-my.sharepoint.com/:b:/g/personal/yiwenl_chalmers_se/EUHC4Ie7gXZCuxqaUWq8iycBqVocx8PLd0aXc6T41GNeAw?e=UqchZa" download="﻿D﻿2.1 ﻿Stakeholder practices and needs">D﻿eliverable ﻿2.1 ﻿Stakeholder practices and needs</a>
+> * <a href="https://chalmers-my.sharepoint.com/:b:/g/personal/yiwenl_chalmers_se/ERlxtXpUlylMt7654gD2MNYBr0xc6bDdvdXEKGyX3KLtRg?e=sq5TrV" download="D﻿5.1 Description of material and energy flows of urban building and infrastructure construction">D﻿eliverable 5.1 Description of material and energy flows of urban building and infrastructure construction</a>
 
 [To Project page](https://research.chalmers.se/en/publication/517254)
