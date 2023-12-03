@@ -1,20 +1,22 @@
 ---
 title: Sanjay Somanath
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 organizations:
   - name: Chalmers University of Technology
     url: https://www.chalmers.se/en/staff/Pages/ssanjay.aspx/
 superuser: true
 authors:
   - sanjay-somanath
-bio: Sanjay Somanath is a PhD student in the Department of Architecture and
-  Civil engineering. The focus of his research is Social sustainability in
-  neighbourhoods, specialising in computational design methods and GIS.
+bio: Sanjay Somanath is a PhD student in the Department of Architecture and Civil engineering. The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
+
+
 interests:
   - Social Sustainability
   - Spatial Analysis
   - Digital Tools
+
+
 social:
   - icon: envelope
     icon_pack: fas

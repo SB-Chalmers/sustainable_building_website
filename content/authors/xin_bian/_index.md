@@ -9,11 +9,14 @@ superuser: true
 authors:
   - xin-bian
 bio: Xin Bian works at the interface of material stocks and urban morphology.
+
+
 interests:
   - Built Environment Stocks
   - Spatial Analysis
   - Sustainable Urban Planning
   - Urban morphology
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,6 +24,18 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=KaKND1UAAAAJ&hl=en
+
+
+
+
+
+
+
+
+
+
+
+
 education:
   courses:
     - course: MSc in Geography
