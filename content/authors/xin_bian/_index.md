@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - xin-bian
-bio: Xin Bian works at the interface of two research fields – namely material stocks and urban morphology.
+bio: Xin Bian works at the interface of material stocks and urban morphology.
 interests:
   - Built Environment Stocks
   - Spatial Analysis
