@@ -2,10 +2,10 @@
 title: Workshop Summary: Bridging the Gap Between Vision and Reality in Urban Planning
 date: 2023-12-15
 draft: false
-featured: false
+featured: true
 authors:
   - alexander hollberg
-  - alex gonzales
+  - alex-gonzalez-caceres
 tags:
   - twinable
   - dtcc
@@ -47,9 +47,6 @@ This session explored methods and tools to enhance the effectiveness of digital 
 Building the Digital Twin Cities Platform; Current Status and Future Development
 Presenter: Vasilis Naserentin (DTCC, Chalmers University of Technology), Jens Olsson (DTCC, CIT)
 Vasilis and Jens provided an in-depth overview of ongoing efforts to construct a comprehensive digital twin platform for urban environments. The presentation highlighted the current state of the platform, key features, and challenges encountered during development. Attendees gained insights into the transformative potential of digital twins in reshaping urban planning and management. The session concluded with a workshop allowing participants to experience the Digital Twin Cities platform hands-on and engage in collaborative discussions on potential applications and improvements.
-
-
-
 
 **Read more**
 More on the Twinable milestone project : [Twinable – Digital Twin Cities Centre](https://dtcc.chalmers.se)
