@@ -1,6 +1,6 @@
 ---
 title: Workshop Summary: Bridging the Gap Between Vision and Reality in Urban Planning
-date: 2023-11-27T07:35:35.465Z
+date: 2023-12-15
 draft: false
 featured: false
 authors:
@@ -23,6 +23,10 @@ image:
   alt_text: DTCC AR application
 ---
 ![DTCC AR application](featured.jpg)
+
+Gothenburg, November 27th.
+
+
 As a prequal to the DTCC conference, Alex Gonzales Caceres organised a workshop about visualisation, auralisation, and the DTCC platform at the Visual Areana at Lindholmen Science Park. 30 international participants joined for the four-hour workshop. Alexander Hollberg moderated the afternoon that was highly appreciated by the participants.
 
 A summary can be found below and in the video.
