@@ -28,7 +28,7 @@ Gothenburg, November 27th.
 As a prequal to the DTCC conference, Alex Gonzales Caceres organised a workshop about visualisation, auralisation, and the DTCC platform at the Visual Areana at Lindholmen Science Park. 30 international participants joined for the four-hour workshop. Alexander Hollberg moderated the afternoon that was highly appreciated by the participants.
 
 A summary can be found below and in the video.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wLJxXYHjLe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wLJxXYHjLe8?si=P34m4aXW55RwZkNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Adaptation of Colour Scales for Inclusive Information Visualization in Urban 3D-Models
 Presenters: Beata Stahre Wästberg, Monica Billger, Jessica Lundin (Chalmers University of Technology)
