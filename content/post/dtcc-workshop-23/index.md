@@ -22,7 +22,7 @@ image:
   caption: DTCC AR application
   alt_text: DTCC AR application
 ---
-![DTCC AR application](featured.jpg)
+![DTCC AR application](featured.png)
 Gothenburg, November 27th.
 
 As a prequal to the DTCC conference, Alex Gonzales Caceres organised a workshop about visualisation, auralisation, and the DTCC platform at the Visual Areana at Lindholmen Science Park. 30 international participants joined for the four-hour workshop. Alexander Hollberg moderated the afternoon that was highly appreciated by the participants.
