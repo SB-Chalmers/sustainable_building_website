@@ -109,12 +109,4 @@ sections:
       # Minimum and maximum font sizes (1.0 = 100%).
       font_size_min: 0.7
       font_size_max: 2.0
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
