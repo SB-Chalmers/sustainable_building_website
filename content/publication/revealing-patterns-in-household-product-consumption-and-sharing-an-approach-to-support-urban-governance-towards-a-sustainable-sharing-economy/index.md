@@ -1,6 +1,7 @@
 ---
 title: "Revealing patterns in household product consumption and sharing: An
   approach to support urban governance towards a sustainable sharing economy"
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -29,11 +30,11 @@ abstract: To accomplish the sustainability potential of the sharing economy
   highlighted cases, such as investigating the reasons why men are less
   interested in the SE and in reducing their consumption; and exploring hinders
   to achieving a critical mass of users and providers in clothes sharing.
-draft: true
+draft: false
 featured: false
 image:
-  filename: screenshot-2024-01-18-at-10.38.49.png
+  filename: ""
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2024-01-18T09:34:26.671Z
 ---
