@@ -1,7 +1,10 @@
 ---
 title: Vera Öberg
+authors:
+- vera-oberg
+
 role: PhD Student
-avatar_filename: featured.jpeg
+avatar_filename: avatar.jpeg
 bio: My main research interests are resource efficiency and adaptive reuse of
   timber structures.
 interests:
@@ -13,7 +16,7 @@ interests:
 social:
   - display:
       header: false
-    link: vera.oberg@chalmers.se
+    link: 'mailto:vera.oberg@chalmers.se'
     icon_pack: fas
     icon: envelope
   - display:
@@ -21,7 +24,10 @@ social:
     link: https://www.linkedin.com/in/vera-oberg/
     icon_pack: fab
     icon: linkedin
-organizations: []
+organizations: 
+- name: Chalmers University of Technology, Architecture and Civil Engineering, Building Technology, Sustainable Building
+  url: "https://www.chalmers.se/personer/veraob/"
+
 education:
   courses:
     - course: MSc in Architectural Engineering
@@ -29,6 +35,9 @@ education:
       year: 2020
 email: ""
 superuser: false
+user_groups:
+- Researcher
+
 ---
 V﻿era is a PhD Student at the department of Architecture and Civil Engineering. She has a background in architectural and structural engineering. 
 
