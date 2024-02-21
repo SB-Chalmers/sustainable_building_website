@@ -3,7 +3,7 @@
 title: Anna Wöhler
 
 authors:
-  - anna-woehler
+  - anna-wohler
 
 superuser: false
 
