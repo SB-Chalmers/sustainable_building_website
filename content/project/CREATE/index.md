@@ -16,7 +16,7 @@ tags:
   - Building Stock Model
   - Governance Arrangements
   - Digital Tools
-  - LivingLabs
+  - Living Labs
 categories:
   - Projects
 external_link: ""
@@ -117,4 +117,4 @@ June 06-07, 2024 - \[Physical CREATE project meeting in Nijmegen]
 
 * [Deliverable 2.1 Stakeholder practices and needs](CREATE_D2_1.pdf)
 * [Deliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](CREATE_D5_1.pdf)
-* [Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs](assets/media/create_d2.2-development-of-a-data-enrichment-action-plan-to-address-the-circular-economy-needs.pdf)
+* [Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs](CREATE_d2_2.pdf)
