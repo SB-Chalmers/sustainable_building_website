@@ -93,7 +93,11 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 
 ## News
 
-June 06-07 - \[Physical CREATE project meeting in Nijmegen]
+October 20-21, 2022 [\[Physical CREATE project meeting in Gothenburg]](https://www.sb.chalmers.se/post/create-meeting-gbg/)
+
+June 22-23, 2023 \[Physical CREATE project meeting in Rennes]
+
+June 06-07, 2024 - \[Physical CREATE project meeting in Nijmegen]
 
 ## Project results/ Deliverables
 
