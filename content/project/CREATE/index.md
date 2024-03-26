@@ -2,13 +2,7 @@
 title: CREATE
 subtitle: The Carbon Resource Energy and Adaption Toolbox Europe
 date: 2022-07-04 00:00:00
-summary: The Carbon Resource Energy and Adaption Toolbox Europe (CREATE), is a
-  comprehensive modelling and data toolbox that can overcome problems such as -
-  How, and at which costs can ambitious climate change mitigation goals be
-  reached? How can urban planning be developed while simultaneously tackling
-  climate change? How can the long-term economic and environmental performance
-  of the building stock be optimized? How to plan electricity, gas, and thermal
-  networks to suit future energy demand and the existing urban topology?
+summary: ""
 draft: false
 featured: false
 authors:
@@ -99,7 +93,7 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 
 ## News
 
-October 20-21 - \[Physical CREATE project meeting in Gothenburg]({{< relref "/post/CREATE-meeting-gbg" >}})
+June 06-07 - \[Physical CREATE project meeting in Nijmegen]
 
 ## Project results/ Deliverables
 
@@ -119,5 +113,3 @@ October 20-21 - \[Physical CREATE project meeting in Gothenburg]({{< relref "/po
 * [Deliverable 2.1 Stakeholder practices and needs](CREATE_D2_1.pdf)
 * [Deliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](CREATE_D5_1.pdf)
 * Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs
-
-[To Project page](https://research.chalmers.se/en/publication/517254)
