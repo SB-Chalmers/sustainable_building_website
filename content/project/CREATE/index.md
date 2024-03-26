@@ -90,13 +90,8 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 
 * Nijmegen in the Netherlands
 * Gothenburg in Sweden
-* Olof Asklunds gata
-
-Redevelopment of an industrial area in Södra Änggården into a residential area with apartment buildings, a park, a square, a school, etc. Traffic Waste and Wastewater office of Gothenburg will be involved in a project that concerns all streets and public land, including other infrastructure such as water and wastewater, electricity, energy, etc.
-![Olof Asklunds gata](draft%20of%20Olof%20Asklunds%20gata%20in%20Gothenburg.jpg)
-
-* Area TBD (Framtiden)
 * Rennes Metropolitan area in France
+* Vienna in Austria
 
 ### Fellow cities
 
@@ -123,5 +118,6 @@ October 20-21 - \[Physical CREATE project meeting in Gothenburg]({{< relref "/po
 
 * [Deliverable 2.1 Stakeholder practices and needs](CREATE_D2_1.pdf)
 * [Deliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](CREATE_D5_1.pdf)
+* Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs
 
 [To Project page](https://research.chalmers.se/en/publication/517254)
