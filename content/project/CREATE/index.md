@@ -117,4 +117,4 @@ June 06-07, 2024 - \[Physical CREATE project meeting in Nijmegen]
 
 * [Deliverable 2.1 Stakeholder practices and needs](CREATE_D2_1.pdf)
 * [Deliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](CREATE_D5_1.pdf)
-* [Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs](CREATE_d2_2.pdf)
+* [Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs](https://github.com/SB-Chalmers/sustainable_building_website/blob/5526e8c9cd33006b9d223ed89813e8d76d8edf32/assets/media/create_d2_2.pdf)
