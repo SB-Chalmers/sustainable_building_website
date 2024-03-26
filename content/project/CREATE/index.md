@@ -1,6 +1,7 @@
 ---
 title: CREATE
-subtitle: The Carbon Resource Energy and Adaption Toolbox Europe
+subtitle: Embedding advanced urban material stock methods within governance
+  processes to enable circular economy and cities resilience
 date: 2022-07-04 00:00:00
 summary: ""
 draft: false
