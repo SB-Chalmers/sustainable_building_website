@@ -93,7 +93,7 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 
 ## News
 
-October 20-21, 2022 [\[Physical CREATE project meeting in Gothenburg]](https://www.sb.chalmers.se/post/create-meeting-gbg/)
+October 20-21, 2022 \[[Physical CREATE project meeting in Gothenburg]](https://www.sb.chalmers.se/post/create-meeting-gbg/)
 
 June 22-23, 2023 \[Physical CREATE project meeting in Rennes]
 
@@ -116,4 +116,4 @@ June 06-07, 2024 - \[Physical CREATE project meeting in Nijmegen]
 
 * [Deliverable 2.1 Stakeholder practices and needs](CREATE_D2_1.pdf)
 * [Deliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](CREATE_D5_1.pdf)
-* Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs
+* [Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs](assets/media/create_d2.2-development-of-a-data-enrichment-action-plan-to-address-the-circular-economy-needs.pdf)
