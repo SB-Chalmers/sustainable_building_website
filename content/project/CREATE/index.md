@@ -10,12 +10,12 @@ authors:
   - holger-wallbaum
   - Maud Lanau
 tags:
-  - Climate policy
+  - Circular Economy
   - Urban model
-  - Local energy policies
-  - Local and regional energy planning
-  - DigitalTools
-  - Projects
+  - Building Stock Model
+  - Governance Arrangements
+  - Digital Tools
+  - LivingLabs
 categories:
   - Projects
 external_link: ""
