@@ -16,7 +16,7 @@ authors:
   - Maud-Lanau
 url_video: ""
 featured: false
-external_link: https://www.student.chalmers.se/sp/course?course_id=40103
+external_link: ""
 url_slides: ""
 tags:
   - Teaching
