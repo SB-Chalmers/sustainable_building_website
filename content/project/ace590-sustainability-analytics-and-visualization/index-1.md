@@ -13,8 +13,7 @@ summary: In this world of big data, basic data literacy is an increasingly
   data-driven storytelling that inform decision-making processes. This course is
   tailored to the challenges pertaining to systems thinking and sustainability.
 authors:
-  - Alexander-Hollberg
-  - toivo-sawen
+  - Maud-Lanau
 url_video: ""
 featured: false
 external_link: https://www.student.chalmers.se/sp/course?course_id=40103
@@ -32,7 +31,7 @@ image:
   caption: ACE590 - Sustainability analytics and visualization
   focal_point: Center
   preview_only: false
-  filename: pic_course_sb.png
+  filename: pic_course_low_res_sb.png
 url_code: ""
 ---
 S﻿tudy Period: LP1 September to November
