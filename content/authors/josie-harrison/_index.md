@@ -13,7 +13,7 @@ interests:
   - Machine Learning 
   - Urban Digital Twins 
   - Remote Sensing 
-  - Spatial Data
+  - Multi-modal Data
 social:
   - icon: envelope
     icon_pack: fas
