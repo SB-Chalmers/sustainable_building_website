@@ -22,7 +22,7 @@ image:
   alt_text: Xinyue Wang presenting at SimBuild 2024 Conference
 ---
 ![Xinyue Wang presenting at SimBuild 2024 Conference](featured.jpg)
-Denver, Colorado, May 23rd.
+Denver, Colorado, May 22nd.
 
 Xinyue Wang presented at the IBPSA-USA SimBuild 2024 Conference, held May 20th through Thursday, May 23rd, 2024, in Denver, Colorado, United States. The conference’s theme is “Building Sustainability and Performance Through Simulation”. It looked into demonstrating innovation in methods, workflows, and modeling tools for better building design, performance, and operation to meet aggressive targets for energy reduction, environmental quality, decarbonization, and resiliency.
 
