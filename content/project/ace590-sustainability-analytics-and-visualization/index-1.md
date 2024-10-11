@@ -3,7 +3,7 @@ slides: ""
 url_pdf: ""
 widget: portfolio
 title: ACE590 - Sustainability analytics and visualization
-date: 2024-04-15T15:18:44.052Z
+date: 2024-10-11T14:52:56.716Z
 summary: In this world of big data, basic data literacy is an increasingly
   valuable skill. This holds true in the field of sustainability, where
   extensive datasets are published across various sustainability topics. This
@@ -21,10 +21,11 @@ url_slides: ""
 tags:
   - Teaching
   - Teaching_Courses
-  - Architecture
-  - Engineering
-  - Building performance
-  - LCA
+  - Industrial_Ecology
+  - Visualization
+  - Analytics
+  - Sustainability
+  - Sustainability_data
 categories:
   - Teaching
 image:
