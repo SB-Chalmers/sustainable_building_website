@@ -9,7 +9,7 @@ featured: false
 authors:
   - leonardo-rosado
   - holger-wallbaum
-  - Maud Lanau
+  - maud-lanau
 tags:
   - Circular Economy
   - Urban model
