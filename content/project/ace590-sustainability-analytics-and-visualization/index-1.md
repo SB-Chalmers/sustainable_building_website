@@ -31,7 +31,7 @@ categories:
 image:
   caption: ACE590 - Sustainability analytics and visualization
   focal_point: Center
-  preview_only: false
+  preview_only: true
   filename: pic_course_low_res_sb.png
 url_code: ""
 ---
