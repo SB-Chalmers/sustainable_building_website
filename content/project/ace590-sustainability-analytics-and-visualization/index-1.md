@@ -13,10 +13,10 @@ summary: In this world of big data, basic data literacy is an increasingly
   data-driven storytelling that inform decision-making processes. This course is
   tailored to the challenges pertaining to systems thinking and sustainability.
 authors:
-  - Maud-Lanau
+  - maud-lanau
 url_video: ""
 featured: false
-external_link: ""
+external_link: https://www.student.chalmers.se/sp/course?course_id=40103
 url_slides: ""
 tags:
   - Teaching
@@ -41,7 +41,11 @@ S﻿tudy Period: LP1 September to November
 
 #### Aim
 
-In this world of big data, basic data literacy is an increasingly valuable skill. This holds true in the field of sustainability, where extensive datasets are published across various sustainability topics. This course aims to give theoretical and practical knowledge in how to select, analyze, and interpret sustainability data and models, in basics of data management, and in how to extract valuable insights and build effective data-driven storytelling that inform decision-making processes. This course is tailored to the challenges pertaining to systems thinking and sustainability.
+In this world of big data, basic data literacy is an increasingly valuable skill. This holds true in the field of sustainability, where extensive data
+
+![](pic_course_low_res_sb.png)
+
+sets are published across various sustainability topics. This course aims to give theoretical and practical knowledge in how to select, analyze, and interpret sustainability data and models, in basics of data management, and in how to extract valuable insights and build effective data-driven storytelling that inform decision-making processes. This course is tailored to the challenges pertaining to systems thinking and sustainability.
 
 #### After completion of the course, the students should be able to:
 
