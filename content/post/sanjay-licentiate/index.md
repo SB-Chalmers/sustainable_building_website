@@ -14,6 +14,8 @@ tags:
   - licentiate 
   - social sustainability 
   - DigitalTools
+projects:
+  - digitalisation-of-social-sustainability-in-neighbourhood-design
 image:
   filename: featured.jpg
   focal_point: CENTER
