@@ -1,6 +1,6 @@
 ---
 title: Sanjay Somanath
-role: PhD Student
+role: Postdoc
 avatar_filename: avatar.png
 organizations:
   - name: Chalmers University of Technology
@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - sanjay-somanath
-bio: Sanjay Somanath is a PhD student in the Department of Architecture and Civil engineering. The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
+bio: Sanjay Somanath is a Postdoc researcher in the Department of Architecture and Civil engineering. The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
 
 
 interests:
@@ -38,6 +38,9 @@ social:
     link: files/cv-somanath.pdf
 education:
   courses:
+    - course: PhD
+      institution: Chalmers University of Technology
+      year: 2024
     - course: M.Arch Digital Architecture and Tectonics
       institution: University of Nottingham, Nottingham, UK
       year: 2018
