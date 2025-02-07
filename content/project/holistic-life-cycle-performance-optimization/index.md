@@ -1,5 +1,4 @@
 ---
-
 title: Holistic life cycle performance optimization
 subtitle: Mainstreaming holistic life cycle performance optimisation in early design stages of buildings
 summary: The main goal of the project is to mainstream holistic life cycle performance optimisation in early design stages of buildings to save energy and greenhouse gas emissions. All performance optimisation will follow a life cycle perspective. 

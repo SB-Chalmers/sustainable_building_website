@@ -9,6 +9,7 @@ authors:
   - Alexander-Hollberg
   - Holger-Wallbaum
 tags:
+  - Interview
   - digital-tools
   - urban-social-sustainability
   - activity-based-accessibility
