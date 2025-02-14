@@ -13,7 +13,7 @@ tags:
   - tools
   - participation
 projects:
-  - Twinable
+  - twinable
 image:
   filename: featured.jpg
   focal_point: Smart

@@ -14,7 +14,7 @@ tags:
   - digital tools
   - visualisation
 projects:
-  - Twinable
+  - twinable
 image:
   filename: twinableuniverseumcoverimage.png
   focal_point: Smart
@@ -28,7 +28,7 @@ The Twinable project by the Chalmers University of Technology uses mixed reality
 
 
 
-**R﻿ead more**
+**Read more**
 
 VisLab at Universeum : [Vislab | Universeum](https://www.universeum.se/experiences/vislab/)
 
