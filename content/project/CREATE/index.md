@@ -11,6 +11,8 @@ authors:
   - holger-wallbaum
   - maud-lanau
 tags:
+  - Projects
+  - Digital Twin
   - Circular Economy
   - Urban model
   - Building Stock Model

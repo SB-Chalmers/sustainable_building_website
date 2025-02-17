@@ -44,7 +44,7 @@ sections:
         - name: Sustainable Building
           tag: SustainableBuilding
         - name: Digital Twins
-          tag: DTCC
+          tag: Digital Twin
         - name: Digital Tools
           tag: DigitalTools
     design:
