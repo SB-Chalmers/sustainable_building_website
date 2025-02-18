@@ -13,6 +13,7 @@ tags:
 categories:
   - Projects
 authors:
+  - shuang-wang
   - leonardo-rosado
   - maud-lanau
   - magnus-osterbring
