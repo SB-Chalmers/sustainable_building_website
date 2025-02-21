@@ -1,5 +1,5 @@
 ---
-title: Optimizing the Built Environment: Alexander Hollberg on LCA, Digital Twins, and Innovation
+title: Optimizing the Built Environment - Alexander Hollberg on LCA, Digital Twins, and Innovation
 date: 2025-02-21
 draft: false
 featured: true
