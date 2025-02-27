@@ -90,9 +90,9 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 * Rennes Metropolitan area in France
 * Vienna in Austria
 
-### Fellow cities
+### Digital tool wireframing
 
-## Partners
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CrFzY7lGNiQ?si=n6YcIdncg61_-OWJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## News
 
