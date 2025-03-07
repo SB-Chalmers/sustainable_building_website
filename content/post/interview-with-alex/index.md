@@ -5,6 +5,7 @@ draft: false
 featured: true
 authors:
   - alexander-hollberg
+  - sanjay-somanath
 tags:
   - Sustainable Built Environments
   - Computational Design
