@@ -52,6 +52,6 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-Sanjay Somanath is a PhD student in the Department of Architecture and Civil engineering. The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
+Sanjay Somanath is a Postdoc researcher in the Department of Architecture and Civil engineering. The focus of his research is Social sustainability in neighbourhoods, specialising in computational design methods and GIS.
 
 His research interests include Social sustainability in neighbourhoods, specialising in computational design methods and GIS. The goal of the PhD research is to create a framework to analyse social sustainability in the built environment through digital tools.

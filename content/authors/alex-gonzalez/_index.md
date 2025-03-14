@@ -39,6 +39,6 @@ education:
       year: 2010
 email: ""
 user_groups:
-  - Researcher
+  - Alumni
 ---
 My areas of interest are associated with energy efficiency in buildings and assessing the quality of the indoor environment. The new challenges in these areas focus on the renovation of the existing residential stock. This is where the greatest potential for decarbonizing the building sector lies. Therefore, I see the application of new assessment technologies supported by simulation tools as one of the solid paths to cost-effective renovation processes. The general objective of my research is to investigate how to implement methods that allow robust but also massive evaluation of renovation projects under the concepts of economy, energy savings and environmental impact.
