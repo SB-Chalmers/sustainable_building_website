@@ -14,7 +14,7 @@ categories:
   - Projects
 image:
   filename: "featured.jpg"
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
 ---
 Photo by <a href="https://unsplash.com/@pueblovista?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paul Pastourmatzis</a> on <a href="https://unsplash.com/photos/birds-eye-view-of-town-jvaOTUtOUOU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
