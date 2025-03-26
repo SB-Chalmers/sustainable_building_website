@@ -13,8 +13,9 @@ tags:
   - MCDA
   - reuse
   - recycling
+  - Projects
 categories:
-  - Project
+  - Projects
 image:
   filename: image_future_urcs.png
   focal_point: Smart

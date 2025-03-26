@@ -5,11 +5,13 @@ summary: ""
 draft: false
 featured: false
 authors:
-  - M﻿aud Lanau
+  - Maud Lanau
   - Xin Bian
   - Meta Bergauser Pont
-tags: []
-categories: []
+tags: 
+  - Projects
+categories:
+  - Projects
 image:
   filename: ""
   focal_point: ""
