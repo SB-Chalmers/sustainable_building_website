@@ -5,8 +5,8 @@ summary: ""
 draft: false
 featured: false
 authors:
-  - Maud Lanau
-  - Xin Bian
+  - maud-lanau
+  - xin-bian
   - Meta Bergauser Pont
 tags: 
   - Projects
