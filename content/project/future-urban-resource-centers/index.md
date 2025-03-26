@@ -19,7 +19,7 @@ categories:
 image:
   filename: image_future_urcs.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 The development of buildings is an immensely carbon- and resource-intensive process and circular economy strategies are key to decrease the environmental impacts of the construction industry. In developed economies, extensive volumes of construction materials are stocked in existing buildings and ought to be reclaimed. Still, reuse rates remain dramatically low. According to practitioners, facilities to store and redistribute reclaimed construction materials, i.e., Urban Resource Centers (URCs) are missing. Indeed, today, URCs are very few and decentralized. The organizational, logistical (e.g., transport related) and thus environmental implications of upscaling URCs remain unclear. 
 
