@@ -14,7 +14,7 @@ summary: The aim of the course is to equip students with the necessary skills
   form.
 authors:
   - Alexander-Hollberg
-  - alex-gonzalez-caceres
+  - alex-gonzalez
 url_video: ""
 featured: false
 external_link: ""

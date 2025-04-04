@@ -5,7 +5,7 @@ draft: false
 featured: true
 authors:
   - Alexander-Hollberg
-  - alex-gonzalez-caceres
+  - alex-gonzalez
 tags:
   - twinable
   - dtcc
