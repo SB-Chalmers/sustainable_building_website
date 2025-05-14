@@ -1,7 +1,7 @@
 ---
 title: Predicting the Wind – Janne’s Journey from ETH to Chalmers
 date: 2025-05-15
-draft: true
+draft: false
 featured: true
 authors:
   - sanjay-somanath
