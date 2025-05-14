@@ -1,6 +1,6 @@
 ---
 title: Predicting the Wind – Janne’s Journey from ETH to Chalmers
-date: 2025-05-15
+date: 2025-05-14
 draft: false
 featured: true
 authors:
