@@ -1,42 +1,41 @@
 ---
 title: David Sindelar
 role: Project Assistant
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 organizations:
   - name: Chalmers University of Technology
-    url: <chalmers website here>
+    url: https://www.chalmers.se/en/persons/sindelar/
 superuser: true
 authors:
   - david-sindelar
-bio: <one line bio>
+bio: David's interests are mapping building material stock for potential reuse to promote a more circular economy.
 interests:
-  - <interest 1>
-  - <interest 2>
-  - <interest 3>
-  - <interest 4>
+  - Material Building Stock
+  - Material Reuse
+  - Circular Economy 
+  - Sustainable Building Practice
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:<your email>@chalmers.se'
+    link: 'mailto:sindelar@chalmers.se'
   - icon: linkedin
     icon_pack: fab
-    link: <your linkedin>
+    link: https://www.linkedin.com/in/david-sindelar-b4b917198
 
 education:
   courses:
-  - course: <course>
-    institution: <institution>
-    year: <year>
-  - course: <course>
-    institution: <institution>
-    year: <year>
-  - course: <course>
-    institution: <institution>
-    year: <year>
+  - course: MA in Architecture
+    institution: Arkitektskolen Aarhus, Aarhus
+    year: 2023
+  - course: Graphic Design
+    institution: Umeå University, Umeå 
+    year: 2020
+  - course: BA in Architecture
+    institution: Umeå School of Architecture, Umeå
+    year: 2019
 user_groups:
   - Researcher
 highlight_name: false
 email: ""
-draft: true
 ---
-Longer bio
+David Sindelar is a project assistant involved in various research initiatives, including the CREATE project. His work focuses on mapping buildings as secondary resource to gain insights into the city’s material stock, aiming to support the transition toward a circular economy.
