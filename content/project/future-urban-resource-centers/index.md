@@ -5,6 +5,7 @@ draft: false
 featured: false
 authors:
   - maud-lanau
+  - luca-giacomo-invidiato
 tags:
   - Circularity
   - construction
