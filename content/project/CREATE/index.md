@@ -10,6 +10,7 @@ authors:
   - leonardo-rosado
   - holger-wallbaum
   - maud-lanau
+  - david-sindelar
 tags:
   - Projects
   - Digital Twin
