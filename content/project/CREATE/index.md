@@ -127,8 +127,13 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 
 ## Avaliable deliverables
 
-Click [*here*](https://github.com/SB-Chalmers/sustainable_building_website/tree/main/content/project/CREATE/deliverables) to access the deliverables folder
-
+* [Deliverable 2.1](deliverables/CREATE_D2_1.pdf)
+* [Deliverable 2.2](deliverables/WP2_D2_2.pdf)
+* [Deliverable 2.3](deliverables/WP2_D2_3.pdf)
+* [Deliverable 3.1](deliverables/WP3_D3_1.pdf)
+* [Deliverable 4.1](deliverables/WP4_D4_1.pdf)
+* [Deliverable 4.2](deliverables/WP4_D4_2.pdf)
+* [Deliverable 5.1](deliverables/CREATE_D5_1.pdf)
 
 
 
