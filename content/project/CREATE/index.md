@@ -29,25 +29,37 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-![urban europe logo](logo_urban_europe.jpg)
-**Project Title**: CREATE --- Embedding advanced urban material stock methods within governance
-processes to enable circular economy and cities resilience
+
+
 
 <!--- 
 {{< toc >}} 
 -->
+![Create Title Image](CREATE_Title_Image.jpg)
 
-## Home/General
 
-### About Create
+### Project Overview
 
 <div>
   <div style="text-align: justify">
     <img src="featured.jpg" width= 400px style="padding: 15px; float: right">
-    CREATE project aims at supporting urban transformation processes towards the circular economy by making an inventory of the existing material stocks within urban construction, developing reliable scenarios for future expected material flows, and providing governance arrangements on how to approach the circular economy transition. The project will focus on the largest urban infrastructures and communal assets, namely buildings, municipal roads, water, and wastewater pipes. A truly transdisciplinary consortium will work with a mixed research design that integrates quantitative modelling with qualitative study and design of governance aspects. The project will further improve already existing, validated, and applied tools and arrangements and combine them with new digitalization technologies to inform decision-makers and enable a circular built environment. 
-    This will be achieved by engaging with a wide range of stakeholders in a co-creation process with three urban living labs and six fellow cities in five countries, which will result in numerous capacity building moments throughout the entire project. A thorough analysis of best practices of cities steering the circular economy transition together with new governance interventions will result in concrete proposals of tailored governance arrangements for the participating cities including a concrete proposal for an upscaling strategy for Europe.
+    The CREATE project aimed at supporting urban transformation processes towards the circular economy by developing a tool (CREATE tool) that makes an inventory of the existing material stocks in the built environment and explores scenarios for future expected material flows from renovation and demolition activities. Additionally, the CREATE project aimed at proposing governance arrangements on how to approach the circular economy transition. The project focused on buildings in 4 cities in Europe, Gothenburg, Sweden, Rennes Métropole, France, Nijmegen, the Netherlands and Vienna, Austria. Construction materials, elements, and components such as concrete, steel, windows, tiles are accounted for, both the amounts that exist accumulated in the stock of buildings, but also the inflows needed for new construction, renovation, refurbishment and the outflows of construction and demolition waste.  A transdisciplinary consortium worked with a mixed research design that integrates quantitative modelling with qualitative studies and design of governance aspects. The CREATE project also focused on improving already existing, validated, and applied tools and arrangements and combined them with new digitalization technologies to inform decision-makers and enable a circular built environment. 
   </div>
 </div>
+
+### Main Outcomes
+
+Important outcomes of the project from the different Work Packages include:  
+
+- WP2 identified the stakeholder needs to stimulate reuse and recycling of materials in the built environment and developed a data enrichment action plan and conceptual model to allow for the development of the CREATE tool and support governance arrangements;  
+
+- WP3 defined the user stories for stakeholders that will use the CREATE tool, designed the architecture and functionalities of the tool for the needs from the Living Labs and developed the CREATE tool;  
+
+- WP4 identified best practices for decision support methods with a focus on Nijmegen Living Lab and to a lesser extent the Rennes Métropole and Gothenburg Living Labs, and analyzed the governance context (policy instruments) for all the Living Labs. This knowledge was used to identify best practices, Circular Econonmy in the Built Environment (CEBE) implementation in terms of tender procedures, policy coherence and evidence-based policy making and to develop policy recommendations.   
+
+- WP5 established an LCA-based impact assessment approach within co-creation process with local stakeholders based on OpenLCA model. A 4 steps method was applied in the Gothenburg, Rennes and Vienna Living Labs to assess circular economy scenarios and their impacts on material and energy saving and CO2-reduction. 
+
+- WP6 conducted multiple communication and dissemination activities, in particular, participation in national and international conferences for scientists and practitioners, development of webinars to disseminate the project results and developing and teaching educational materials at Master's level. 
 
 ### Work Package Structure
 
@@ -91,17 +103,12 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 * Rennes Metropolitan area in France
 * Vienna in Austria
 
-### Digital tool wireframing
+### Webinar on the CREATE Project
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CrFzY7lGNiQ?si=n6YcIdncg61_-OWJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7PFl0DDYzr0?si=VcAkgMy-CJRPAE4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## News
-
-October 20-21, 2022 \[[Physical CREATE project meeting in Gothenburg]](https://www.sb.chalmers.se/post/create-meeting-gbg/)
-
-June 22-23, 2023 \[Physical CREATE project meeting in Rennes]
-
-June 06-07, 2024 - \[Physical CREATE project meeting in Nijmegen]
+### DTCC Milestone Project Lunch Seminars
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jyoRbiPOzQQ?si=K52XKnxqRkReCH1v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Project results/ Deliverables
 
@@ -112,12 +119,25 @@ June 06-07, 2024 - \[Physical CREATE project meeting in Nijmegen]
 3. Co-create governance arrangements that enable a broader participation of stakeholders, experimentation with 
    decision-support information, and the upscaling of best practices. 
 
-### Deliverables
+# Deliverables
 
 ![CREATE Deliverables](Deliverables.jpg)
 
-#### Avaliable deliverables
 
-* [Deliverable 2.1 Stakeholder practices and needs](CREATE_D2_1.pdf)
-* [Deliverable 5.1 Description of material and energy flows of urban building and infrastructure construction](CREATE_D5_1.pdf)
-* [Deliverable 2.2 Development of a data enrichment action plan to address the circular economy needs](assets/media/create_d2_2.pdf)
+
+## Avaliable deliverables
+
+Click [*here*](https://github.com/SB-Chalmers/sustainable_building_website/tree/main/content/project/CREATE/deliverables) to access the deliverables folder
+
+
+
+
+<!--   Remove this line to uncomment
+
+## Project Team
+
+![Create Group Photo](CREATE_Group_Photo.jpg)
+<small>(Left to Right) [Holger Wallbaum (Chalmers)](https://www.chalmers.se/personer/wallbaum/), Sophia Pibal (AIT), Maarten van Ginkel (Nijmegen Municipality), Vincent Augiseau (CitéSource), Ali Hainoun (AIT), Maud Lanau (Chalmers), David Sindelar (Chalmers), Daniel Horak (AIT), Tara Heshusius (Nijmegen Municipality), Daniel Monfort (BRGM), Wieke Pot (Wageningen University and Research), Angeline Chartier (Wageningen University and Research), Leonardo Rosado (Chalmers)</small>
+
+
+   Remove this line to uncomment-->
