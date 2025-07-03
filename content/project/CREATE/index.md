@@ -137,7 +137,6 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 
 
 
-<!--   Remove this line to uncomment
 
 ## Project Team
 
@@ -145,4 +144,3 @@ There are 2 phases with 6 steps respectively for a Living Lab, starting with a p
 <small>(Left to Right) [Holger Wallbaum (Chalmers)](https://www.chalmers.se/personer/wallbaum/), [Sophia Pibal (AIT)](https://publications.ait.ac.at/en/persons/sophia-pibal), [Maarten van Ginkel (Nijmegen Municipality)](https://www.linkedin.com/in/maarten-van-ginkel-89001782/?originalSubdomain=nl), [Vincent Augiseau (CitéSource)](https://citesource.fr/), [Ali Hainoun (AIT)](https://publications.ait.ac.at/en/persons/ali.hainoun), [Maud Lanau (Chalmers)](https://www.chalmers.se/en/persons/lanau/), [David Sindelar (Chalmers)](https://www.sb.chalmers.se/author/david-sindelar/), [Daniel Horak (AIT)](https://publications.ait.ac.at/en/persons/daniel.horak), [Tara Heshusius (Nijmegen Municipality)](https://www.linkedin.com/in/taraheshusius/?originalSubdomain=nl), [Daniel Monfort Climent (BRGM)](https://www.linkedin.com/in/daniel-monfort-601636129/?originalSubdomain=fr), [Wieke Pot (Wageningen University and Research)](https://www.wur.nl/nl/personen/wieke-pot.htm), [Angeline Chartier (Wageningen University and Research)](https://www.linkedin.com/in/angeline-chartier-735946194/?originalSubdomain=nl), [Leonardo Rosado (Chalmers)](https://www.chalmers.se/personer/rosado/)</small>
 
 
-   Remove this line to uncomment-->
