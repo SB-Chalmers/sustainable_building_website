@@ -20,14 +20,14 @@ marketing:
     org_name: 'Chalmers University of Technology'
     description: 'Sustainable building Research group - Chalmers University of Technology, ACE'
     twitter: ''
-  analytics:
-    google_analytics: 'G-QC5BZ8FY79'
-    baidu_tongji: ''
-    google_tag_manager: 'G-QC5BZ8FY79'
-    microsoft_clarity: ''
+analytics:
+  google_analytics: ""
+  baidu_tongji: ""
+  google_tag_manager: ""
+  microsoft_clarity: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
