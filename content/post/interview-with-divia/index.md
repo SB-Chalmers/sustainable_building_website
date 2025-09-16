@@ -13,13 +13,15 @@ tags:
   - Research
   - Interview
 image:
-  filename: featured.jpeg
+  filename: featured.jpg
   focal_point: CENTER
   preview_only: true
 ---
-![Portrait photo of Divia Jimenez Encarnacion](featured.jpeg)
+![Portrait photo of Divia Jimenez Encarnacion](featured.jpg)
 
 This week we sat down with **Divia Jimenez Encarnacion** to discuss her PhD journey, research on the sharing economy, and advice for future researchers. Divia shares her insights on sustainability, urban consumption, and the challenges and rewards of academic life.
+
+{{< figure src="https://images.unsplash.com/photo-lDwKKjlHL2Y?auto=format&fit=crop&w=1600&q=80" alt="Shelves of shared tools in a community tool library" caption="Community tool libraries make it easier to share infrequently used items." >}}
 
 **Congratulations on your PhD! Could you briefly tell us what your research was about, in your own words?**
 
@@ -36,9 +38,15 @@ This week we sat down with **Divia Jimenez Encarnacion** to discuss her PhD jour
 >
 > When studying these purchasing and traveling aspects at a city level, a quite complex picture emerges. In Gothenburg, women, younger individuals, and highly educated individuals may be more willing to reduce their purchases and share instead. However, if they are located, for example, in the city outskirts, they have fewer opportunities to access them using low-impact transportation modes. This also depends on the product in question. For instance, clothes are often bought in large quantities but are less attractive for sharing, whereas the opposite is true for tools and hobby items.
 
+{{< figure src="https://images.unsplash.com/photo-13QbTcCiHsA?auto=format&fit=crop&w=1600&q=80" alt="Cyclists and a tram in central Gothenburg, illustrating low-impact transport" caption="Low-impact mobility matters: long travel distances can offset sharing benefits." >}}
+
+{{< figure src="https://images.unsplash.com/photo-kxsOp6vLHkI?auto=format&fit=crop&w=1600&q=80" alt="People browsing clothing at a community swap event" caption="Clothes vs. tools: different products invite different sharing behaviors." >}}
+
 **Your work combined surveys, statistical analysis, spatial methods, and collaboration with the city of Gothenburg. What was it like working across so many methods and with local government?**
 
 > The variety of methods in my research allowed me to consider the sharing economy from important angles – namely, the user perspective, the geospatial perspective, and the governance perspective. Applying these methods kept my researcher´s curiosity alive and led me to collaborate with very talented people within each. Particularly, working with local government representatives helped make my research relevant for the city´s needs.
+
+{{< figure src="https://images.unsplash.com/photo-fQOyF0D0cDU?auto=format&fit=crop&w=1600&q=80" alt="Researchers and city staff discussing a city map at a workshop" caption="Collaboration with the City of Gothenburg helped ground the research in real needs." >}}
 
 **How can your findings be useful for households, local governments, or companies interested in sharing initiatives?**
 
@@ -47,6 +55,8 @@ This week we sat down with **Divia Jimenez Encarnacion** to discuss her PhD jour
 **In your view, what role can sharing play in making cities more sustainable — and where are the limits?**
 
 > Sharing, when done correctly, can be an important facilitator for reducing raw material use, emissions, and other environmental impacts; especially for high-income groups whose material needs are largely met. At the same time, it´s important to see sharing as one of many options. For groups that are unable to share, there are many other ways to contribute to sustainability, including travelling more sustainably, reducing energy use in the household, and avoiding food waste.
+
+{{< figure src="https://images.unsplash.com/photo-EJU7A__krX0?auto=format&fit=crop&w=1600&q=80" alt="A person lending a drill to a neighbor at the door" caption="Sometimes it’s as simple as borrowing a drill instead of buying new." >}}
 
 **What was the biggest challenge you faced during your PhD, and how did you overcome it?**
 
