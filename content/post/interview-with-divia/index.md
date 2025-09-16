@@ -17,13 +17,14 @@ image:
   focal_point: CENTER
   preview_only: true
 ---
-![Portrait photo of Divia Jimenez Encarnacion](../divia-has-defended-her-licentiate-thesis/featured.jpeg)
+![Portrait photo of Divia Jimenez Encarnacion](featured.jpeg)
 
 This week we sat down with **Divia Jimenez Encarnacion** to discuss her PhD journey, research on the sharing economy, and advice for future researchers. Divia shares her insights on sustainability, urban consumption, and the challenges and rewards of academic life.
 
 **Congratulations on your PhD! Could you briefly tell us what your research was about, in your own words?**
 
 > My research focused on exploring the environmental sustainability potential of sharing household products. Sharing activities (for example, renting, exchanging, and buying second-hand tools, clothes, etc.) are often seen as inherently sustainable. However, in reality, many different factors need to align for sharing to achieve sustainable outcomes. Through my work, I elucidated these factors and studied how some of them manifested in the context of Gothenburg.
+![Cover image for divias thesis](thesis_cover.jpg)
 
 **What inspired you to study sharing household products and their role in sustainability?**
 
@@ -67,4 +68,4 @@ We thank Divia for sharing her experiences and insights. Her dedication to susta
 
 <br> </br>
 <strong> Read more </strong>
-- [Read more about Divia on Chalmers Research](https://research.chalmers.se/en/person/divia-jimenez-encarnacion).
+- [Read more about Divia on Chalmers Research](https://research.chalmers.se/en/person/diviaj).
