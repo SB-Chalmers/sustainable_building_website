@@ -60,10 +60,21 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
+      - name: List Hugo public directory
+        run: |
+          echo "Listing contents of ./public after Hugo build:"
+          ls -lR ./public || echo "No public directory found!"
+      - name: Check if public directory exists
+        run: |
+          if [ ! -d "./public" ]; then
+            echo "Error: ./public directory does not exist after build!"; exit 1;
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
+      - name: Confirm artifact upload
+        run: echo "Artifact upload step completed."
 
   # Deployment job
   deploy:
