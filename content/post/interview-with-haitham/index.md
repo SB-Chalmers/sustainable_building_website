@@ -1,13 +1,12 @@
 ---
 title: Interview with Haitham Abu Ghaida
-date: 2025-09-16
+date: 2025-09-17
 slug: interview-with-haitham
 draft: false
 featured: true
 authors:
   - haitham-abu-ghaida
   - sanjay-somanath
-categories: []
 tags:
   - Interview
   - Research

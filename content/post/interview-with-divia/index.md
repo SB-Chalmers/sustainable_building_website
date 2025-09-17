@@ -12,6 +12,8 @@ tags:
   - Urban Sustainability
   - Research
   - Interview
+projects:
+ - sesam
 image:
   filename: featured.jpg
   focal_point: CENTER
