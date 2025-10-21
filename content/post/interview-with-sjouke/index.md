@@ -18,7 +18,7 @@ image:
   preview_only: true
 ---
 ![Cover](featured.JPG)
-
+**Sjouke Beemsterboer** discusses his PhD journey with us in this interview - research on life cycle assessment (LCA) in the Swedish building sector, and advice for future researchers. Sjouke shares his insights on balancing scientific credibility with practical utility, and the evolving landscape of sustainable building.
 
 **Congratulations on your PhD! Could you briefly tell us what your dissertation was about, in your own words?**
 
