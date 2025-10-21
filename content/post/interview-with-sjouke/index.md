@@ -17,15 +17,16 @@ image:
   focal_point: CENTER
   preview_only: true
 ---
+![Cover](featured.JPG)
+
 > That is a good question. There are different ways in which practitioners aim to safeguard the credibility of their work. For example, by adhering to established standards, using credible software tools and data sources, as well as by moving towards more comprehensive assessments. At the same time, it is clear that LCA practitioners in many situations adapt LCA work to make it useful in building projects and other practical settings. This can be, for example, by excluding parts of the building life cycle, using LCA results that are available from other projects, or by prioritising LCA-based activities over assessment outcomes. As the thesis makes clear, the particular way in which practitioners balance credibility and practical utility is highly context dependent, related to the purposes that people have for LCA.
 
-{{< figure src="community_engagement.jpg" alt="Workshop with building professionals" caption="Collaboration with industry professionals grounds LCA research in real-world needs." >}}
+![Cover](Sjouke_lca.jpg)
 
 **During your PhD, how has the landscape of LCA in the Swedish building industry changed (such as the klimatdeklaration for new buildings)? How do you think these changes have shifted the balance between scientific credibility and pragmatic use of LCA over the years?**
 
 > The introduction of building climate declarations has been a game changer for LCA-based climate calculations in the building sector. Where at the beginning of my PhD, LCA was only used sporadically by companies to assess building climate impacts, it has now become a routine practice in building projects. With time, I have seen that different practical uses of LCA have developed, with LCA-based climate calculations leading more often to changes in the building design, as well as the relations between clients, developers, contractors, and suppliers. In that sense, I would say that practical utility has certainly not become less important.
 
-{{< figure src="smart_city.jpg" alt="Smart city infrastructure in Sweden" caption="Policy changes have made LCA a routine part of Swedish building projects." >}}
 
 **You argue for a pragmatic philosophy of LCA. What does this mean in practice, and how does it differ from the traditional way researchers view LCA?**
 
