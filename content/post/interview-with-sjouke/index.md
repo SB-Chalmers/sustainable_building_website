@@ -19,14 +19,28 @@ image:
 ---
 ![Cover](featured.JPG)
 
-> That is a good question. There are different ways in which practitioners aim to safeguard the credibility of their work. For example, by adhering to established standards, using credible software tools and data sources, as well as by moving towards more comprehensive assessments. At the same time, it is clear that LCA practitioners in many situations adapt LCA work to make it useful in building projects and other practical settings. This can be, for example, by excluding parts of the building life cycle, using LCA results that are available from other projects, or by prioritising LCA-based activities over assessment outcomes. As the thesis makes clear, the particular way in which practitioners balance credibility and practical utility is highly context dependent, related to the purposes that people have for LCA.
+
+**Congratulations on your PhD! Could you briefly tell us what your dissertation was about, in your own words?**
+
+> The PhD explores how environmental life cycle assessment (LCA) is used in Swedish building companies and building projects between 2017 and 2025. The studies dive into how LCA methods can be simplified, how effective they are in product development, and how companies use LCA in response to legal requirements for building climate declarations. The findings show that LCA is not just about following strict rules—it’s also about making smart adjustments to fit different goals and situations. By taking a pragmatic approach, my thesis highlights how such adjustments in LCA can be both valid and valuable, helping researchers and practitioners better understand and respond to the real-world challenges of sustainable building.
 
 ![Cover](Sjouke_lca.jpg)
+
+**What drew you to study how life cycle assessment (LCA) is actually used in building companies, rather than focusing only on the technical side of methods and tools?**
+
+> At first, the focus on LCA practices in building companies was developed because of ab growing interest by building companies to learn how to use LCA. Hence, the focus in the licentiate thesis had been on simplification practices. Later on, the research continued to look at LCA practices in industry because it became evident that the reality of such LCA work frequently looked different from how it is portrayed in the scientific literature. 
+
+**One of the key themes in your dissertation is the balance between scientific credibility and practical utility in LCA. What did you learn about how practitioners navigate this tension?**
+
+> That is a good question. There are different ways in which practitioners aim to safeguard the credibility of their work. For example, by adhering to established standards, using credible software tools and data sources, as well as by moving towards more comprehensive assessments. At the same time, it is clear that LCA practitioners in many situations adapt LCA work to make it useful in building projects and other practical settings. This can be, for example, by excluding parts of the building life cycle, using LCA results that are available from other projects, or by prioritising LCA-based activities over assessment outcomes. As the thesis makes clear, the particular way in which practitioners balance credibility and practical utility is highly context dependent, related to the purposes that people have for LCA.
+
+{{< figure src="community_engagement.jpg" alt="Workshop with building professionals" caption="Collaboration with industry professionals grounds LCA research in real-world needs." >}}
 
 **During your PhD, how has the landscape of LCA in the Swedish building industry changed (such as the klimatdeklaration for new buildings)? How do you think these changes have shifted the balance between scientific credibility and pragmatic use of LCA over the years?**
 
 > The introduction of building climate declarations has been a game changer for LCA-based climate calculations in the building sector. Where at the beginning of my PhD, LCA was only used sporadically by companies to assess building climate impacts, it has now become a routine practice in building projects. With time, I have seen that different practical uses of LCA have developed, with LCA-based climate calculations leading more often to changes in the building design, as well as the relations between clients, developers, contractors, and suppliers. In that sense, I would say that practical utility has certainly not become less important.
 
+{{< figure src="smart_city.jpg" alt="Smart city infrastructure in Sweden" caption="Policy changes have made LCA a routine part of Swedish building projects." >}}
 
 **You argue for a pragmatic philosophy of LCA. What does this mean in practice, and how does it differ from the traditional way researchers view LCA?**
 
