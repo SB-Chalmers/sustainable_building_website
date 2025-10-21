@@ -1,41 +1,22 @@
-
 ---
 title: Pragmatism in Practice – Interview with Sjouke Beemsterboer
 date: 2025-10-21
 draft: false
 featured: true
 authors:
-	- sjouke-beemsterboer
-	- sanjay-somanath
+  - sjouke-beemsterboer
+  - sanjay-somanath
 tags:
-	- Sustainable Built Environments
-	- Life Cycle Assessment
-	- Building Industry
-	- Research
-	- Interview
-projects:
- - sesam
+  - Sustainable Built Environments
+  - Life Cycle Assessment
+  - Building Industry
+  - Research
+  - Interview
 image:
-	filename: featured.jpg
-	focal_point: CENTER
-	preview_only: true
+  filename: featured.jpg
+  focal_point: CENTER
+  preview_only: true
 ---
-![Portrait photo of Sjouke Beemsterboer](featured.jpg)
-
-**Sjouke Beemsterboer** discusses his PhD journey with us in this interview - research on life cycle assessment (LCA) in the Swedish building sector, and advice for future researchers. Sjouke shares his insights on balancing scientific credibility with practical utility, and the evolving landscape of sustainable building.
-
-{{< figure src="Sjouke_lca.jpg" alt="Modern Swedish building project" caption="Swedish building projects are increasingly shaped by LCA requirements." >}}
-
-**Congratulations on your PhD! Could you briefly tell us what your dissertation was about, in your own words?**
-
-> The PhD explores how environmental life cycle assessment (LCA) is used in Swedish building companies and building projects between 2017 and 2025. The studies dive into how LCA methods can be simplified, how effective they are in product development, and how companies use LCA in response to legal requirements for building climate declarations. The findings show that LCA is not just about following strict rules—it’s also about making smart adjustments to fit different goals and situations. By taking a pragmatic approach, my thesis highlights how such adjustments in LCA can be both valid and valuable, helping researchers and practitioners better understand and respond to the real-world challenges of sustainable building.
-
-**What drew you to study how life cycle assessment (LCA) is actually used in building companies, rather than focusing only on the technical side of methods and tools?**
-
-> At first, the focus on LCA practices in building companies was developed because of ab growing interest by building companies to learn how to use LCA. Hence, the focus in the licentiate thesis had been on simplification practices. Later on, the research continued to look at LCA practices in industry because it became evident that the reality of such LCA work frequently looked different from how it is portrayed in the scientific literature. 
-
-**One of the key themes in your dissertation is the balance between scientific credibility and practical utility in LCA. What did you learn about how practitioners navigate this tension?**
-
 > That is a good question. There are different ways in which practitioners aim to safeguard the credibility of their work. For example, by adhering to established standards, using credible software tools and data sources, as well as by moving towards more comprehensive assessments. At the same time, it is clear that LCA practitioners in many situations adapt LCA work to make it useful in building projects and other practical settings. This can be, for example, by excluding parts of the building life cycle, using LCA results that are available from other projects, or by prioritising LCA-based activities over assessment outcomes. As the thesis makes clear, the particular way in which practitioners balance credibility and practical utility is highly context dependent, related to the purposes that people have for LCA.
 
 {{< figure src="community_engagement.jpg" alt="Workshop with building professionals" caption="Collaboration with industry professionals grounds LCA research in real-world needs." >}}
